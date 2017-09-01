@@ -1,0 +1,12 @@
+C:\Users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\10.ClearingCommands\bin\Debug\10.ClearingCommands.exe.config
+C:\Users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\10.ClearingCommands\bin\Debug\10.ClearingCommands.exe
+C:\Users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\10.ClearingCommands\bin\Debug\10.ClearingCommands.pdb
+C:\Users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\10.ClearingCommands\obj\Debug\10.ClearingCommands.csprojResolveAssemblyReference.cache
+C:\Users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\10.ClearingCommands\obj\Debug\10.ClearingCommands.exe
+C:\Users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\10.ClearingCommands\obj\Debug\10.ClearingCommands.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\10.ClearingCommands\bin\Debug\10.ClearingCommands.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\10.ClearingCommands\bin\Debug\10.ClearingCommands.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\10.ClearingCommands\bin\Debug\10.ClearingCommands.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\10.ClearingCommands\obj\Debug\10.ClearingCommands.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\10.ClearingCommands\obj\Debug\10.ClearingCommands.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\10.ClearingCommands\obj\Debug\10.ClearingCommands.pdb

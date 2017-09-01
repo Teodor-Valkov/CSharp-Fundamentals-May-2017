@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\02.KnightsOfHonor\bin\Debug\02.KnightsOfHonor.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\02.KnightsOfHonor\bin\Debug\02.KnightsOfHonor.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\02.KnightsOfHonor\bin\Debug\02.KnightsOfHonor.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\02.KnightsOfHonor\obj\Debug\02.KnightsOfHonor.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\02.KnightsOfHonor\obj\Debug\02.KnightsOfHonor.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\02.KnightsOfHonor\obj\Debug\02.KnightsOfHonor.pdb

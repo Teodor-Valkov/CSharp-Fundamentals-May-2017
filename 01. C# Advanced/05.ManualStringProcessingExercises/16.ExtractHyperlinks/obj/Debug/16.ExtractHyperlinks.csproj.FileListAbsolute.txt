@@ -1,0 +1,11 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\05.ManualStringProcessingExercises\16.ExtractHyperlinks\bin\Debug\16.ExtractHyperlinks.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\05.ManualStringProcessingExercises\16.ExtractHyperlinks\bin\Debug\16.ExtractHyperlinks.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\05.ManualStringProcessingExercises\16.ExtractHyperlinks\bin\Debug\16.ExtractHyperlinks.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\05.ManualStringProcessingExercises\16.ExtractHyperlinks\obj\Debug\16.ExtractHyperlinks.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\05.ManualStringProcessingExercises\16.ExtractHyperlinks\obj\Debug\16.ExtractHyperlinks.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\16.ExtractHyperlinks\bin\Debug\16.ExtractHyperlinks.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\16.ExtractHyperlinks\bin\Debug\16.ExtractHyperlinks.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\16.ExtractHyperlinks\bin\Debug\16.ExtractHyperlinks.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\16.ExtractHyperlinks\obj\Debug\16.ExtractHyperlinks.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\16.ExtractHyperlinks\obj\Debug\16.ExtractHyperlinks.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\16.ExtractHyperlinks\obj\Debug\16.ExtractHyperlinks.pdb

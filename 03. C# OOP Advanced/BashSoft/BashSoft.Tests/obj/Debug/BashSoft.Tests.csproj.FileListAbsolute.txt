@@ -1,0 +1,20 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\BashSoft\BashSoft.Tests\bin\Debug\BashSoft.Tests.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\BashSoft\BashSoft.Tests\bin\Debug\BashSoft.Tests.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\BashSoft\BashSoft.Tests\bin\Debug\BashSoft.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\BashSoft\BashSoft.Tests\bin\Debug\nunit.framework.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\BashSoft\BashSoft.Tests\bin\Debug\BashSoft.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\BashSoft\BashSoft.Tests\bin\Debug\BashSoft.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\BashSoft\BashSoft.Tests\bin\Debug\nunit.framework.xml
+C:\Users\valko\Documents\Visual Studio 2017\Projects\BashSoft\BashSoft.Tests\obj\Debug\BashSoft.Tests.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\BashSoft\BashSoft.Tests\obj\Debug\BashSoft.Tests.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\BashSoft\BashSoft.Tests\obj\Debug\BashSoft.Tests.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\BashSoft\BashSoft.Tests\bin\Debug\BashSoft.Tests.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\BashSoft\BashSoft.Tests\bin\Debug\BashSoft.Tests.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\BashSoft\BashSoft.Tests\bin\Debug\BashSoft.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\BashSoft\BashSoft.Tests\bin\Debug\nunit.framework.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\BashSoft\BashSoft.Tests\bin\Debug\BashSoft.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\BashSoft\BashSoft.Tests\bin\Debug\BashSoft.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\BashSoft\BashSoft.Tests\bin\Debug\nunit.framework.xml
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\BashSoft\BashSoft.Tests\obj\Debug\BashSoft.Tests.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\BashSoft\BashSoft.Tests\obj\Debug\BashSoft.Tests.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\BashSoft\BashSoft.Tests\obj\Debug\BashSoft.Tests.pdb

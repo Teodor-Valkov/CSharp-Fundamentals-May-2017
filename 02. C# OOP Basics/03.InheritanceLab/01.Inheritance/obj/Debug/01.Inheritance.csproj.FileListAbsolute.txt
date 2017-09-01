@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\03.InheritanceLab\01.Inheritance\bin\Debug\01.Inheritance.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\03.InheritanceLab\01.Inheritance\bin\Debug\01.Inheritance.exe
+c:\users\valko\documents\visual studio 2017\Projects\03.InheritanceLab\01.Inheritance\bin\Debug\01.Inheritance.pdb
+c:\users\valko\documents\visual studio 2017\Projects\03.InheritanceLab\01.Inheritance\obj\Debug\01.Inheritance.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\03.InheritanceLab\01.Inheritance\obj\Debug\01.Inheritance.exe
+c:\users\valko\documents\visual studio 2017\Projects\03.InheritanceLab\01.Inheritance\obj\Debug\01.Inheritance.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\03.InheritanceLab\01.Inheritance\bin\Debug\01.Inheritance.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\03.InheritanceLab\01.Inheritance\bin\Debug\01.Inheritance.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\03.InheritanceLab\01.Inheritance\bin\Debug\01.Inheritance.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\03.InheritanceLab\01.Inheritance\obj\Debug\01.Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\03.InheritanceLab\01.Inheritance\obj\Debug\01.Inheritance.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\03.InheritanceLab\01.Inheritance\obj\Debug\01.Inheritance.pdb

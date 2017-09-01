@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\08. RetakeExamAugust2016\04.AshesOfRoses\bin\Debug\04.AshesOfRoses.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\08. RetakeExamAugust2016\04.AshesOfRoses\bin\Debug\04.AshesOfRoses.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\08. RetakeExamAugust2016\04.AshesOfRoses\bin\Debug\04.AshesOfRoses.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\08. RetakeExamAugust2016\04.AshesOfRoses\obj\Debug\04.AshesOfRoses.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\08. RetakeExamAugust2016\04.AshesOfRoses\obj\Debug\04.AshesOfRoses.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\08. RetakeExamAugust2016\04.AshesOfRoses\obj\Debug\04.AshesOfRoses.pdb

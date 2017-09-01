@@ -1,0 +1,5 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\08.ExtractHyperlinks\bin\Debug\08.ExtractHyperlinks.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\08.ExtractHyperlinks\bin\Debug\08.ExtractHyperlinks.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\08.ExtractHyperlinks\bin\Debug\08.ExtractHyperlinks.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\08.ExtractHyperlinks\obj\Debug\08.ExtractHyperlinks.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\08.ExtractHyperlinks\obj\Debug\08.ExtractHyperlinks.pdb

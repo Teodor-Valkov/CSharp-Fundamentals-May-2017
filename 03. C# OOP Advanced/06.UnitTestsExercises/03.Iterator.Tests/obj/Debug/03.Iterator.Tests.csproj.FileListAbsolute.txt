@@ -1,0 +1,20 @@
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\03.Iterator.Tests\bin\Debug\03.Iterator.Tests.dll
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\03.Iterator.Tests\bin\Debug\03.Iterator.Tests.pdb
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\03.Iterator.Tests\bin\Debug\03.Iterator.exe
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\03.Iterator.Tests\bin\Debug\nunit.framework.dll
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\03.Iterator.Tests\bin\Debug\03.Iterator.pdb
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\03.Iterator.Tests\bin\Debug\03.Iterator.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\03.Iterator.Tests\bin\Debug\nunit.framework.xml
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\03.Iterator.Tests\obj\Debug\03.Iterator.Tests.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\03.Iterator.Tests\obj\Debug\03.Iterator.Tests.dll
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\03.Iterator.Tests\obj\Debug\03.Iterator.Tests.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\03.Iterator.Tests\bin\Debug\03.Iterator.Tests.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\03.Iterator.Tests\bin\Debug\03.Iterator.Tests.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\03.Iterator.Tests\bin\Debug\03.Iterator.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\03.Iterator.Tests\bin\Debug\nunit.framework.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\03.Iterator.Tests\bin\Debug\03.Iterator.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\03.Iterator.Tests\bin\Debug\03.Iterator.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\03.Iterator.Tests\bin\Debug\nunit.framework.xml
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\03.Iterator.Tests\obj\Debug\03.Iterator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\03.Iterator.Tests\obj\Debug\03.Iterator.Tests.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\03.Iterator.Tests\obj\Debug\03.Iterator.Tests.pdb

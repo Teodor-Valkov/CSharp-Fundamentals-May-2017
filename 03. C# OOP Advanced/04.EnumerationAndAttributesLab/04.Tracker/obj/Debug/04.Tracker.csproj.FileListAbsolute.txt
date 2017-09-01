@@ -1,0 +1,11 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.EnumerationAndAttributesLab\04.Tracker\bin\Debug\04.Tracker.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.EnumerationAndAttributesLab\04.Tracker\bin\Debug\04.Tracker.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.EnumerationAndAttributesLab\04.Tracker\bin\Debug\04.Tracker.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.EnumerationAndAttributesLab\04.Tracker\obj\Debug\04.Tracker.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.EnumerationAndAttributesLab\04.Tracker\obj\Debug\04.Tracker.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationAndAttributesLab\04.Tracker\bin\Debug\04.Tracker.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationAndAttributesLab\04.Tracker\bin\Debug\04.Tracker.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationAndAttributesLab\04.Tracker\bin\Debug\04.Tracker.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationAndAttributesLab\04.Tracker\obj\Debug\04.Tracker.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationAndAttributesLab\04.Tracker\obj\Debug\04.Tracker.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationAndAttributesLab\04.Tracker\obj\Debug\04.Tracker.pdb

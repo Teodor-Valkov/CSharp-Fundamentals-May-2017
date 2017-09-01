@@ -1,0 +1,10 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - H.E.L.L. 2 - 16 August 2017\Hell.Tests\bin\Debug\Hell.Tests.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - H.E.L.L. 2 - 16 August 2017\Hell.Tests\bin\Debug\Hell.Tests.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - H.E.L.L. 2 - 16 August 2017\Hell.Tests\bin\Debug\Hell.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - H.E.L.L. 2 - 16 August 2017\Hell.Tests\bin\Debug\nunit.framework.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - H.E.L.L. 2 - 16 August 2017\Hell.Tests\bin\Debug\Hell.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - H.E.L.L. 2 - 16 August 2017\Hell.Tests\bin\Debug\Hell.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - H.E.L.L. 2 - 16 August 2017\Hell.Tests\bin\Debug\nunit.framework.xml
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - H.E.L.L. 2 - 16 August 2017\Hell.Tests\obj\Debug\Hell.Tests.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - H.E.L.L. 2 - 16 August 2017\Hell.Tests\obj\Debug\Hell.Tests.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - H.E.L.L. 2 - 16 August 2017\Hell.Tests\obj\Debug\Hell.Tests.pdb

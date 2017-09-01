@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.GenericsExercises\03.GenericSwapMethodString\bin\Debug\03.GenericSwapMethodString.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.GenericsExercises\03.GenericSwapMethodString\bin\Debug\03.GenericSwapMethodString.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.GenericsExercises\03.GenericSwapMethodString\bin\Debug\03.GenericSwapMethodString.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.GenericsExercises\03.GenericSwapMethodString\obj\Debug\03.GenericSwapMethodString.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.GenericsExercises\03.GenericSwapMethodString\obj\Debug\03.GenericSwapMethodString.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.GenericsExercises\03.GenericSwapMethodString\obj\Debug\03.GenericSwapMethodString.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsExercises\03.GenericSwapMethodString\bin\Debug\03.GenericSwapMethodString.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsExercises\03.GenericSwapMethodString\bin\Debug\03.GenericSwapMethodString.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsExercises\03.GenericSwapMethodString\bin\Debug\03.GenericSwapMethodString.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsExercises\03.GenericSwapMethodString\obj\Debug\03.GenericSwapMethodString.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsExercises\03.GenericSwapMethodString\obj\Debug\03.GenericSwapMethodString.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsExercises\03.GenericSwapMethodString\obj\Debug\03.GenericSwapMethodString.pdb

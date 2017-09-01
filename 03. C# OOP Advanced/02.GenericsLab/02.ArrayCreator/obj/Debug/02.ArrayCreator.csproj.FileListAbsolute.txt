@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\02.GenericsLab\02.ArrayCreator\bin\Debug\02.ArrayCreator.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\02.GenericsLab\02.ArrayCreator\bin\Debug\02.ArrayCreator.exe
+c:\users\valko\documents\visual studio 2017\Projects\02.GenericsLab\02.ArrayCreator\bin\Debug\02.ArrayCreator.pdb
+c:\users\valko\documents\visual studio 2017\Projects\02.GenericsLab\02.ArrayCreator\obj\Debug\02.ArrayCreator.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\02.GenericsLab\02.ArrayCreator\obj\Debug\02.ArrayCreator.exe
+c:\users\valko\documents\visual studio 2017\Projects\02.GenericsLab\02.ArrayCreator\obj\Debug\02.ArrayCreator.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsLab\02.ArrayCreator\bin\Debug\02.ArrayCreator.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsLab\02.ArrayCreator\bin\Debug\02.ArrayCreator.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsLab\02.ArrayCreator\bin\Debug\02.ArrayCreator.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsLab\02.ArrayCreator\obj\Debug\02.ArrayCreator.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsLab\02.ArrayCreator\obj\Debug\02.ArrayCreator.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsLab\02.ArrayCreator\obj\Debug\02.ArrayCreator.pdb

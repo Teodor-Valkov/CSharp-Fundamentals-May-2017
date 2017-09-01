@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\04.FindEvensOrOdds\bin\Debug\04.FindEvensOrOdds.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\04.FindEvensOrOdds\bin\Debug\04.FindEvensOrOdds.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\04.FindEvensOrOdds\bin\Debug\04.FindEvensOrOdds.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\04.FindEvensOrOdds\obj\Debug\04.FindEvensOrOdds.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\04.FindEvensOrOdds\obj\Debug\04.FindEvensOrOdds.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\04.FindEvensOrOdds\obj\Debug\04.FindEvensOrOdds.pdb

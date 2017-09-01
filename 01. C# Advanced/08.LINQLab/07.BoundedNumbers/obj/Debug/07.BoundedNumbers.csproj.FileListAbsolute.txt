@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\08.LINQLab\07.BoundedNumbers\bin\Debug\07.BoundedNumbers.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\08.LINQLab\07.BoundedNumbers\bin\Debug\07.BoundedNumbers.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\08.LINQLab\07.BoundedNumbers\bin\Debug\07.BoundedNumbers.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\08.LINQLab\07.BoundedNumbers\obj\Debug\07.BoundedNumbers.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\08.LINQLab\07.BoundedNumbers\obj\Debug\07.BoundedNumbers.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\08.LINQLab\07.BoundedNumbers\obj\Debug\07.BoundedNumbers.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\07.BoundedNumbers\bin\Debug\07.BoundedNumbers.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\07.BoundedNumbers\bin\Debug\07.BoundedNumbers.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\07.BoundedNumbers\bin\Debug\07.BoundedNumbers.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\07.BoundedNumbers\obj\Debug\07.BoundedNumbers.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\07.BoundedNumbers\obj\Debug\07.BoundedNumbers.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\07.BoundedNumbers\obj\Debug\07.BoundedNumbers.pdb

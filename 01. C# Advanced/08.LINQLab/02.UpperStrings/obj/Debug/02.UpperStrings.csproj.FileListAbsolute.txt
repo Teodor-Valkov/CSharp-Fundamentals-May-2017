@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\02.UpperStrings\bin\Debug\02.UpperStrings.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\02.UpperStrings\bin\Debug\02.UpperStrings.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\02.UpperStrings\bin\Debug\02.UpperStrings.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\02.UpperStrings\obj\Debug\02.UpperStrings.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\02.UpperStrings\obj\Debug\02.UpperStrings.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\02.UpperStrings\obj\Debug\02.UpperStrings.pdb

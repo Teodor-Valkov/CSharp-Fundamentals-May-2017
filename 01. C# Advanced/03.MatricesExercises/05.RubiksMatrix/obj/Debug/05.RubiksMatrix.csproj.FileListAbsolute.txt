@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\05.RubiksMatrix\bin\Debug\05.RubiksMatrix.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\05.RubiksMatrix\bin\Debug\05.RubiksMatrix.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\05.RubiksMatrix\bin\Debug\05.RubiksMatrix.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\05.RubiksMatrix\obj\Debug\05.RubiksMatrix.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\05.RubiksMatrix\obj\Debug\05.RubiksMatrix.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\05.RubiksMatrix\obj\Debug\05.RubiksMatrix.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\05.RubiksMatrix\bin\Debug\05.RubiksMatrix.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\05.RubiksMatrix\bin\Debug\05.RubiksMatrix.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\05.RubiksMatrix\bin\Debug\05.RubiksMatrix.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\05.RubiksMatrix\obj\Debug\05.RubiksMatrix.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\05.RubiksMatrix\obj\Debug\05.RubiksMatrix.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\05.RubiksMatrix\obj\Debug\05.RubiksMatrix.pdb

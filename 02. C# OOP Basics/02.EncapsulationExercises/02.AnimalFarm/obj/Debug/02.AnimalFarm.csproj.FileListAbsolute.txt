@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\02.EncapsulationExercises\02.AnimalFarm\bin\Debug\02.AnimalFarm.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\02.EncapsulationExercises\02.AnimalFarm\bin\Debug\02.AnimalFarm.exe
+c:\users\valko\documents\visual studio 2017\Projects\02.EncapsulationExercises\02.AnimalFarm\bin\Debug\02.AnimalFarm.pdb
+c:\users\valko\documents\visual studio 2017\Projects\02.EncapsulationExercises\02.AnimalFarm\obj\Debug\02.AnimalFarm.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\02.EncapsulationExercises\02.AnimalFarm\obj\Debug\02.AnimalFarm.exe
+c:\users\valko\documents\visual studio 2017\Projects\02.EncapsulationExercises\02.AnimalFarm\obj\Debug\02.AnimalFarm.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\02.EncapsulationExercises\02.AnimalFarm\bin\Debug\02.AnimalFarm.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\02.EncapsulationExercises\02.AnimalFarm\bin\Debug\02.AnimalFarm.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\02.EncapsulationExercises\02.AnimalFarm\bin\Debug\02.AnimalFarm.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\02.EncapsulationExercises\02.AnimalFarm\obj\Debug\02.AnimalFarm.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\02.EncapsulationExercises\02.AnimalFarm\obj\Debug\02.AnimalFarm.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\02.EncapsulationExercises\02.AnimalFarm\obj\Debug\02.AnimalFarm.pdb

@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.SetsAndDictionariesExercises\09.UserLogs\bin\Debug\09.UserLogs.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.SetsAndDictionariesExercises\09.UserLogs\bin\Debug\09.UserLogs.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.SetsAndDictionariesExercises\09.UserLogs\bin\Debug\09.UserLogs.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.SetsAndDictionariesExercises\09.UserLogs\obj\Debug\09.UserLogs.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.SetsAndDictionariesExercises\09.UserLogs\obj\Debug\09.UserLogs.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.SetsAndDictionariesExercises\09.UserLogs\obj\Debug\09.UserLogs.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\09.UserLogs\bin\Debug\09.UserLogs.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\09.UserLogs\bin\Debug\09.UserLogs.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\09.UserLogs\bin\Debug\09.UserLogs.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\09.UserLogs\obj\Debug\09.UserLogs.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\09.UserLogs\obj\Debug\09.UserLogs.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\09.UserLogs\obj\Debug\09.UserLogs.pdb

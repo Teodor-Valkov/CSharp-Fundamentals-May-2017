@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\13.MagicExchangeableWords\obj\Debug\13.MagicExchangeableWords.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\13.MagicExchangeableWords\bin\Debug\13.MagicExchangeableWords.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\13.MagicExchangeableWords\bin\Debug\13.MagicExchangeableWords.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\13.MagicExchangeableWords\bin\Debug\13.MagicExchangeableWords.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\13.MagicExchangeableWords\obj\Debug\13.MagicExchangeableWords.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\13.MagicExchangeableWords\obj\Debug\13.MagicExchangeableWords.pdb

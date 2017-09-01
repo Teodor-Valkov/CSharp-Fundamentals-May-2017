@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\08.RawData\bin\Debug\08.RawData.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\08.RawData\bin\Debug\08.RawData.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\08.RawData\bin\Debug\08.RawData.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\08.RawData\obj\Debug\08.RawData.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\08.RawData\obj\Debug\08.RawData.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\08.RawData\obj\Debug\08.RawData.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\08.RawData\bin\Debug\08.RawData.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\08.RawData\bin\Debug\08.RawData.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\08.RawData\bin\Debug\08.RawData.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\08.RawData\obj\Debug\08.RawData.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\08.RawData\obj\Debug\08.RawData.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\08.RawData\obj\Debug\08.RawData.pdb

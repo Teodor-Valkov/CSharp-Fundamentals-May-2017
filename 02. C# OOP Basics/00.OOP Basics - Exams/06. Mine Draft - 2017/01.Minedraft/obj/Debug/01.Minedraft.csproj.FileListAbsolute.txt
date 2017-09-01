@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\FinalExamJuly2017\01.Minedraft\obj\Debug\01.Minedraft.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\FinalExamJuly2017\01.Minedraft\bin\Debug\01.Minedraft.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\FinalExamJuly2017\01.Minedraft\bin\Debug\01.Minedraft.exe
+c:\users\valko\documents\visual studio 2017\Projects\FinalExamJuly2017\01.Minedraft\bin\Debug\01.Minedraft.pdb
+c:\users\valko\documents\visual studio 2017\Projects\FinalExamJuly2017\01.Minedraft\obj\Debug\01.Minedraft.exe
+c:\users\valko\documents\visual studio 2017\Projects\FinalExamJuly2017\01.Minedraft\obj\Debug\01.Minedraft.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\00.OOP Basics - Exams\06. Mine Draft - 2017\01.Minedraft\bin\Debug\01.Minedraft.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\00.OOP Basics - Exams\06. Mine Draft - 2017\01.Minedraft\bin\Debug\01.Minedraft.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\00.OOP Basics - Exams\06. Mine Draft - 2017\01.Minedraft\bin\Debug\01.Minedraft.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\00.OOP Basics - Exams\06. Mine Draft - 2017\01.Minedraft\obj\Debug\01.Minedraft.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\00.OOP Basics - Exams\06. Mine Draft - 2017\01.Minedraft\obj\Debug\01.Minedraft.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\00.OOP Basics - Exams\06. Mine Draft - 2017\01.Minedraft\obj\Debug\01.Minedraft.pdb

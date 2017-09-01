@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\03.IteratorsAndComparatorsLab\03.ComparableBook\bin\Debug\03.ComparableBook.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\03.IteratorsAndComparatorsLab\03.ComparableBook\bin\Debug\03.ComparableBook.exe
+c:\users\valko\documents\visual studio 2017\Projects\03.IteratorsAndComparatorsLab\03.ComparableBook\bin\Debug\03.ComparableBook.pdb
+c:\users\valko\documents\visual studio 2017\Projects\03.IteratorsAndComparatorsLab\03.ComparableBook\obj\Debug\03.ComparableBook.exe
+c:\users\valko\documents\visual studio 2017\Projects\03.IteratorsAndComparatorsLab\03.ComparableBook\obj\Debug\03.ComparableBook.pdb
+c:\users\valko\documents\visual studio 2017\Projects\03.IteratorsAndComparatorsLab\03.ComparableBook\obj\Debug\03.ComparableBook.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsLab\03.ComparableBook\bin\Debug\03.ComparableBook.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsLab\03.ComparableBook\bin\Debug\03.ComparableBook.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsLab\03.ComparableBook\bin\Debug\03.ComparableBook.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsLab\03.ComparableBook\obj\Debug\03.ComparableBook.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsLab\03.ComparableBook\obj\Debug\03.ComparableBook.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsLab\03.ComparableBook\obj\Debug\03.ComparableBook.pdb

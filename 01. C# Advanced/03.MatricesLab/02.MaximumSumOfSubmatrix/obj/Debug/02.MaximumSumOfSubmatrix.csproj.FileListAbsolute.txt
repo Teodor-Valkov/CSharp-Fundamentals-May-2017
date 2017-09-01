@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\03.MatricesLab\02.MaximumSumOfSubmatrix\bin\Debug\02.MaximumSumOfSubmatrix.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\03.MatricesLab\02.MaximumSumOfSubmatrix\bin\Debug\02.MaximumSumOfSubmatrix.exe
+c:\users\valko\documents\visual studio 2017\Projects\03.MatricesLab\02.MaximumSumOfSubmatrix\bin\Debug\02.MaximumSumOfSubmatrix.pdb
+c:\users\valko\documents\visual studio 2017\Projects\03.MatricesLab\02.MaximumSumOfSubmatrix\obj\Debug\02.MaximumSumOfSubmatrix.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\03.MatricesLab\02.MaximumSumOfSubmatrix\obj\Debug\02.MaximumSumOfSubmatrix.exe
+c:\users\valko\documents\visual studio 2017\Projects\03.MatricesLab\02.MaximumSumOfSubmatrix\obj\Debug\02.MaximumSumOfSubmatrix.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesLab\02.MaximumSumOfSubmatrix\bin\Debug\02.MaximumSumOfSubmatrix.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesLab\02.MaximumSumOfSubmatrix\bin\Debug\02.MaximumSumOfSubmatrix.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesLab\02.MaximumSumOfSubmatrix\bin\Debug\02.MaximumSumOfSubmatrix.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesLab\02.MaximumSumOfSubmatrix\obj\Debug\02.MaximumSumOfSubmatrix.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesLab\02.MaximumSumOfSubmatrix\obj\Debug\02.MaximumSumOfSubmatrix.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesLab\02.MaximumSumOfSubmatrix\obj\Debug\02.MaximumSumOfSubmatrix.pdb

@@ -1,0 +1,20 @@
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\02.Database.Tests\bin\Debug\02.Database.Tests.dll
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\02.Database.Tests\bin\Debug\02.Database.Tests.pdb
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\02.Database.Tests\bin\Debug\02.Database.exe
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\02.Database.Tests\bin\Debug\nunit.framework.dll
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\02.Database.Tests\bin\Debug\02.Database.pdb
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\02.Database.Tests\bin\Debug\02.Database.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\02.Database.Tests\bin\Debug\nunit.framework.xml
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\02.Database.Tests\obj\Debug\02.Database.Tests.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\02.Database.Tests\obj\Debug\02.Database.Tests.dll
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\02.Database.Tests\obj\Debug\02.Database.Tests.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\02.Database.Tests\bin\Debug\02.Database.Tests.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\02.Database.Tests\bin\Debug\02.Database.Tests.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\02.Database.Tests\bin\Debug\02.Database.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\02.Database.Tests\bin\Debug\nunit.framework.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\02.Database.Tests\bin\Debug\02.Database.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\02.Database.Tests\bin\Debug\02.Database.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\02.Database.Tests\bin\Debug\nunit.framework.xml
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\02.Database.Tests\obj\Debug\02.Database.Tests.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\02.Database.Tests\obj\Debug\02.Database.Tests.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\02.Database.Tests\obj\Debug\02.Database.Tests.pdb

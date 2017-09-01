@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionLab\03.MissionPrivateImpossible\bin\Debug\03.MissionPrivateImpossible.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionLab\03.MissionPrivateImpossible\bin\Debug\03.MissionPrivateImpossible.exe
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionLab\03.MissionPrivateImpossible\bin\Debug\03.MissionPrivateImpossible.pdb
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionLab\03.MissionPrivateImpossible\obj\Debug\03.MissionPrivateImpossible.exe
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionLab\03.MissionPrivateImpossible\obj\Debug\03.MissionPrivateImpossible.pdb
+C:\Users\valko\documents\visual studio 2017\Projects\05.ReflectionLab\03.MissionPrivateImpossible\obj\Debug\03.MissionPrivateImpossible.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionLab\03.MissionPrivateImpossible\bin\Debug\03.MissionPrivateImpossible.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionLab\03.MissionPrivateImpossible\bin\Debug\03.MissionPrivateImpossible.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionLab\03.MissionPrivateImpossible\bin\Debug\03.MissionPrivateImpossible.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionLab\03.MissionPrivateImpossible\obj\Debug\03.MissionPrivateImpossible.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionLab\03.MissionPrivateImpossible\obj\Debug\03.MissionPrivateImpossible.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionLab\03.MissionPrivateImpossible\obj\Debug\03.MissionPrivateImpossible.pdb

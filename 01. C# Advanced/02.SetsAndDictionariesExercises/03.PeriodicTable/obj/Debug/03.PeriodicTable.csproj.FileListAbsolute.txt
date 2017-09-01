@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.SetsAndDictionariesExercises\03.PeriodicTable\bin\Debug\03.PeriodicTable.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.SetsAndDictionariesExercises\03.PeriodicTable\bin\Debug\03.PeriodicTable.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.SetsAndDictionariesExercises\03.PeriodicTable\bin\Debug\03.PeriodicTable.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.SetsAndDictionariesExercises\03.PeriodicTable\obj\Debug\03.PeriodicTable.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.SetsAndDictionariesExercises\03.PeriodicTable\obj\Debug\03.PeriodicTable.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.SetsAndDictionariesExercises\03.PeriodicTable\obj\Debug\03.PeriodicTable.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\03.PeriodicTable\bin\Debug\03.PeriodicTable.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\03.PeriodicTable\bin\Debug\03.PeriodicTable.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\03.PeriodicTable\bin\Debug\03.PeriodicTable.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\03.PeriodicTable\obj\Debug\03.PeriodicTable.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\03.PeriodicTable\obj\Debug\03.PeriodicTable.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\03.PeriodicTable\obj\Debug\03.PeriodicTable.pdb

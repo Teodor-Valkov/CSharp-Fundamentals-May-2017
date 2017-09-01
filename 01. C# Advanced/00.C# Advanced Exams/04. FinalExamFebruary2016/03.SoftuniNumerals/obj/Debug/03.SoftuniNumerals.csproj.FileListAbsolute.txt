@@ -1,0 +1,13 @@
+c:\users\ac milan\documents\visual studio 2012\Projects\FinalExamFebruary2016\03.SoftuniNumerals\bin\Debug\03.SoftuniNumerals.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\FinalExamFebruary2016\03.SoftuniNumerals\bin\Debug\03.SoftuniNumerals.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\FinalExamFebruary2016\03.SoftuniNumerals\bin\Debug\03.SoftuniNumerals.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\FinalExamFebruary2016\03.SoftuniNumerals\bin\Debug\03.SoftuniNumerals.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\FinalExamFebruary2016\03.SoftuniNumerals\obj\Debug\03.SoftuniNumerals.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\FinalExamFebruary2016\03.SoftuniNumerals\obj\Debug\03.SoftuniNumerals.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\FinalExamFebruary2016\03.SoftuniNumerals\obj\Debug\03.SoftuniNumerals.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\04. FinalExamFebruary2016\03.SoftuniNumerals\bin\Debug\03.SoftuniNumerals.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\04. FinalExamFebruary2016\03.SoftuniNumerals\bin\Debug\03.SoftuniNumerals.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\04. FinalExamFebruary2016\03.SoftuniNumerals\bin\Debug\03.SoftuniNumerals.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\04. FinalExamFebruary2016\03.SoftuniNumerals\obj\Debug\03.SoftuniNumerals.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\04. FinalExamFebruary2016\03.SoftuniNumerals\obj\Debug\03.SoftuniNumerals.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\04. FinalExamFebruary2016\03.SoftuniNumerals\obj\Debug\03.SoftuniNumerals.pdb

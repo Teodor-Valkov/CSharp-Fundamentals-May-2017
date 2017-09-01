@@ -1,0 +1,18 @@
+c:\users\valko\documents\visual studio 2015\Projects\SampleExamJune2016\02.JedyGalaxy\bin\Debug\02.JedyGalaxy.exe.config
+c:\users\valko\documents\visual studio 2015\Projects\SampleExamJune2016\02.JedyGalaxy\bin\Debug\02.JedyGalaxy.exe
+c:\users\valko\documents\visual studio 2015\Projects\SampleExamJune2016\02.JedyGalaxy\bin\Debug\02.JedyGalaxy.pdb
+c:\users\valko\documents\visual studio 2015\Projects\SampleExamJune2016\02.JedyGalaxy\obj\Debug\02.JedyGalaxy.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2015\Projects\SampleExamJune2016\02.JedyGalaxy\obj\Debug\02.JedyGalaxy.exe
+c:\users\valko\documents\visual studio 2015\Projects\SampleExamJune2016\02.JedyGalaxy\obj\Debug\02.JedyGalaxy.pdb
+C:\Users\valko\Documents\Visual Studio 2015\Projects\3. C# Advanced Exercises and Exams\SampleExamJune2016\02.JedyGalaxy\bin\Debug\02.JedyGalaxy.exe.config
+C:\Users\valko\Documents\Visual Studio 2015\Projects\3. C# Advanced Exercises and Exams\SampleExamJune2016\02.JedyGalaxy\bin\Debug\02.JedyGalaxy.exe
+C:\Users\valko\Documents\Visual Studio 2015\Projects\3. C# Advanced Exercises and Exams\SampleExamJune2016\02.JedyGalaxy\bin\Debug\02.JedyGalaxy.pdb
+C:\Users\valko\Documents\Visual Studio 2015\Projects\3. C# Advanced Exercises and Exams\SampleExamJune2016\02.JedyGalaxy\obj\Debug\02.JedyGalaxy.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2015\Projects\3. C# Advanced Exercises and Exams\SampleExamJune2016\02.JedyGalaxy\obj\Debug\02.JedyGalaxy.exe
+C:\Users\valko\Documents\Visual Studio 2015\Projects\3. C# Advanced Exercises and Exams\SampleExamJune2016\02.JedyGalaxy\obj\Debug\02.JedyGalaxy.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\06. SampleExamJune2016\02.JedyGalaxy\bin\Debug\02.JedyGalaxy.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\06. SampleExamJune2016\02.JedyGalaxy\bin\Debug\02.JedyGalaxy.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\06. SampleExamJune2016\02.JedyGalaxy\bin\Debug\02.JedyGalaxy.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\06. SampleExamJune2016\02.JedyGalaxy\obj\Debug\02.JedyGalaxy.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\06. SampleExamJune2016\02.JedyGalaxy\obj\Debug\02.JedyGalaxy.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\06. SampleExamJune2016\02.JedyGalaxy\obj\Debug\02.JedyGalaxy.pdb

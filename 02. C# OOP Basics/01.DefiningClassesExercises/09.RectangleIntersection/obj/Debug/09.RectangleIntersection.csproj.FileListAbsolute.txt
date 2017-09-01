@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\09.RectangleIntersection\bin\Debug\09.RectangleIntersection.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\09.RectangleIntersection\bin\Debug\09.RectangleIntersection.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\09.RectangleIntersection\bin\Debug\09.RectangleIntersection.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\09.RectangleIntersection\obj\Debug\09.RectangleIntersection.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\09.RectangleIntersection\obj\Debug\09.RectangleIntersection.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\09.RectangleIntersection\obj\Debug\09.RectangleIntersection.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\09.RectangleIntersection\bin\Debug\09.RectangleIntersection.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\09.RectangleIntersection\bin\Debug\09.RectangleIntersection.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\09.RectangleIntersection\bin\Debug\09.RectangleIntersection.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\09.RectangleIntersection\obj\Debug\09.RectangleIntersection.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\09.RectangleIntersection\obj\Debug\09.RectangleIntersection.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\09.RectangleIntersection\obj\Debug\09.RectangleIntersection.pdb

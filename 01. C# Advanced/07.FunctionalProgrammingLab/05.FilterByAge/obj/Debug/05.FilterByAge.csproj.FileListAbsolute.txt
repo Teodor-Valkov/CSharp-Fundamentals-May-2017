@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\bin\Debug\05.FilterByAge.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\bin\Debug\05.FilterByAge.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\bin\Debug\05.FilterByAge.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\obj\Debug\05.FilterByAge.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\obj\Debug\05.FilterByAge.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\obj\Debug\05.FilterByAge.pdb

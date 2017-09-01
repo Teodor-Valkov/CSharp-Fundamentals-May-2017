@@ -1,0 +1,18 @@
+c:\users\valko\documents\visual studio 2017\Projects\RecyclingStation\01.RecyclingStation\bin\Debug\01.RecyclingStation.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\RecyclingStation\01.RecyclingStation\bin\Debug\01.RecyclingStation.exe
+c:\users\valko\documents\visual studio 2017\Projects\RecyclingStation\01.RecyclingStation\bin\Debug\01.RecyclingStation.pdb
+c:\users\valko\documents\visual studio 2017\Projects\RecyclingStation\01.RecyclingStation\obj\Debug\01.RecyclingStation.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\RecyclingStation\01.RecyclingStation\obj\Debug\01.RecyclingStation.exe
+c:\users\valko\documents\visual studio 2017\Projects\RecyclingStation\01.RecyclingStation\obj\Debug\01.RecyclingStation.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\10.Exams\Exam - Recycling Station - 7 August 2016\01.RecyclingStation\bin\Debug\01.RecyclingStation.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\10.Exams\Exam - Recycling Station - 7 August 2016\01.RecyclingStation\bin\Debug\01.RecyclingStation.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\10.Exams\Exam - Recycling Station - 7 August 2016\01.RecyclingStation\bin\Debug\01.RecyclingStation.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\10.Exams\Exam - Recycling Station - 7 August 2016\01.RecyclingStation\obj\Debug\01.RecyclingStation.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\10.Exams\Exam - Recycling Station - 7 August 2016\01.RecyclingStation\obj\Debug\01.RecyclingStation.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\10.Exams\Exam - Recycling Station - 7 August 2016\01.RecyclingStation\obj\Debug\01.RecyclingStation.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Recycling Station - 7 August 2016\01.RecyclingStation\bin\Debug\01.RecyclingStation.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Recycling Station - 7 August 2016\01.RecyclingStation\bin\Debug\01.RecyclingStation.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Recycling Station - 7 August 2016\01.RecyclingStation\bin\Debug\01.RecyclingStation.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Recycling Station - 7 August 2016\01.RecyclingStation\obj\Debug\01.RecyclingStation.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Recycling Station - 7 August 2016\01.RecyclingStation\obj\Debug\01.RecyclingStation.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Recycling Station - 7 August 2016\01.RecyclingStation\obj\Debug\01.RecyclingStation.pdb

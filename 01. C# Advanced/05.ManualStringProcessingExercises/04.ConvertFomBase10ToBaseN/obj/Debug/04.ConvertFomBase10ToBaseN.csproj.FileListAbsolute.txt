@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\04.ConvertFomBase10ToBaseN\bin\Debug\04.ConvertFomBase10ToBaseN.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\04.ConvertFomBase10ToBaseN\bin\Debug\04.ConvertFomBase10ToBaseN.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\04.ConvertFomBase10ToBaseN\bin\Debug\04.ConvertFomBase10ToBaseN.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\04.ConvertFomBase10ToBaseN\obj\Debug\04.ConvertFomBase10ToBaseN.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\04.ConvertFomBase10ToBaseN\obj\Debug\04.ConvertFomBase10ToBaseN.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\04.ConvertFomBase10ToBaseN\obj\Debug\04.ConvertFomBase10ToBaseN.pdb

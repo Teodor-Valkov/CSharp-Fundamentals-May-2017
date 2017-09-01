@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\09.DateTimeClass\bin\Debug\09.DateTimeClass.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\09.DateTimeClass\bin\Debug\09.DateTimeClass.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\09.DateTimeClass\bin\Debug\09.DateTimeClass.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\09.DateTimeClass\obj\Debug\09.DateTimeClass.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\09.DateTimeClass\obj\Debug\09.DateTimeClass.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\09.DateTimeClass\obj\Debug\09.DateTimeClass.pdb

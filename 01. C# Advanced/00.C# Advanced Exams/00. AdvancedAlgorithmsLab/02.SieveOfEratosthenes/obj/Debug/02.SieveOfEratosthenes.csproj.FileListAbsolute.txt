@@ -1,0 +1,11 @@
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedAlgorithmsLab\02.SieveOfEratosthenes\bin\Debug\02.SieveOfEratosthenes.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedAlgorithmsLab\02.SieveOfEratosthenes\bin\Debug\02.SieveOfEratosthenes.exe
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedAlgorithmsLab\02.SieveOfEratosthenes\bin\Debug\02.SieveOfEratosthenes.pdb
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedAlgorithmsLab\02.SieveOfEratosthenes\obj\Debug\02.SieveOfEratosthenes.exe
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedAlgorithmsLab\02.SieveOfEratosthenes\obj\Debug\02.SieveOfEratosthenes.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedAlgorithmsLab\02.SieveOfEratosthenes\bin\Debug\02.SieveOfEratosthenes.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedAlgorithmsLab\02.SieveOfEratosthenes\bin\Debug\02.SieveOfEratosthenes.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedAlgorithmsLab\02.SieveOfEratosthenes\bin\Debug\02.SieveOfEratosthenes.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedAlgorithmsLab\02.SieveOfEratosthenes\obj\Debug\02.SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedAlgorithmsLab\02.SieveOfEratosthenes\obj\Debug\02.SieveOfEratosthenes.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedAlgorithmsLab\02.SieveOfEratosthenes\obj\Debug\02.SieveOfEratosthenes.pdb

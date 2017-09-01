@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\04.Recharge\obj\Debug\04.Recharge.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\04.Recharge\bin\Debug\04.Recharge.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\04.Recharge\bin\Debug\04.Recharge.exe
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\04.Recharge\bin\Debug\04.Recharge.pdb
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\04.Recharge\obj\Debug\04.Recharge.exe
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\04.Recharge\obj\Debug\04.Recharge.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\04.Recharge\bin\Debug\04.Recharge.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\04.Recharge\bin\Debug\04.Recharge.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\04.Recharge\bin\Debug\04.Recharge.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\04.Recharge\obj\Debug\04.Recharge.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\04.Recharge\obj\Debug\04.Recharge.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\04.Recharge\obj\Debug\04.Recharge.pdb

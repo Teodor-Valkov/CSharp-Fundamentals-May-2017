@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\FinalExamMarch2016\04.ChampionsLeague2\bin\Debug\04.ChampionsLeague2.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\FinalExamMarch2016\04.ChampionsLeague2\bin\Debug\04.ChampionsLeague2.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\FinalExamMarch2016\04.ChampionsLeague2\bin\Debug\04.ChampionsLeague2.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\FinalExamMarch2016\04.ChampionsLeague2\obj\Debug\04.ChampionsLeague2.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\FinalExamMarch2016\04.ChampionsLeague2\obj\Debug\04.ChampionsLeague2.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\FinalExamMarch2016\04.ChampionsLeague2\obj\Debug\04.ChampionsLeague2.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\05. FinalExamMarch2016\04.ChampionsLeague2\bin\Debug\04.ChampionsLeague2.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\05. FinalExamMarch2016\04.ChampionsLeague2\bin\Debug\04.ChampionsLeague2.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\05. FinalExamMarch2016\04.ChampionsLeague2\bin\Debug\04.ChampionsLeague2.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\05. FinalExamMarch2016\04.ChampionsLeague2\obj\Debug\04.ChampionsLeague2.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\05. FinalExamMarch2016\04.ChampionsLeague2\obj\Debug\04.ChampionsLeague2.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\05. FinalExamMarch2016\04.ChampionsLeague2\obj\Debug\04.ChampionsLeague2.pdb

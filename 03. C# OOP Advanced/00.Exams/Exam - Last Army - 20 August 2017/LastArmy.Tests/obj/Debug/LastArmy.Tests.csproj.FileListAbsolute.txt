@@ -1,0 +1,30 @@
+C:\Users\valko\Desktop\LastArmy.Tests\bin\Debug\LastArmy.Tests.dll
+C:\Users\valko\Desktop\LastArmy.Tests\bin\Debug\LastArmy.Tests.pdb
+C:\Users\valko\Desktop\LastArmy.Tests\bin\Debug\Last Army.exe
+C:\Users\valko\Desktop\LastArmy.Tests\bin\Debug\nunit.framework.dll
+C:\Users\valko\Desktop\LastArmy.Tests\bin\Debug\Last Army.pdb
+C:\Users\valko\Desktop\LastArmy.Tests\bin\Debug\Last Army.exe.config
+C:\Users\valko\Desktop\LastArmy.Tests\bin\Debug\nunit.framework.xml
+C:\Users\valko\Desktop\LastArmy.Tests\obj\Debug\LastArmy.Tests.csprojResolveAssemblyReference.cache
+C:\Users\valko\Desktop\LastArmy.Tests\obj\Debug\LastArmy.Tests.dll
+C:\Users\valko\Desktop\LastArmy.Tests\obj\Debug\LastArmy.Tests.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2016\LastArmy.Tests\obj\Debug\LastArmy.Tests.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2016\LastArmy.Tests\obj\Debug\LastArmy.Tests.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2016\LastArmy.Tests\obj\Debug\LastArmy.Tests.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2016\LastArmy.Tests\bin\Debug\LastArmy.Tests.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2016\LastArmy.Tests\bin\Debug\LastArmy.Tests.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2016\LastArmy.Tests\bin\Debug\Last Army.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2016\LastArmy.Tests\bin\Debug\nunit.framework.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2016\LastArmy.Tests\bin\Debug\Last Army.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2016\LastArmy.Tests\bin\Debug\Last Army.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2016\LastArmy.Tests\bin\Debug\nunit.framework.xml
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2017\LastArmy.Tests\bin\Debug\LastArmy.Tests.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2017\LastArmy.Tests\bin\Debug\LastArmy.Tests.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2017\LastArmy.Tests\bin\Debug\Last Army.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2017\LastArmy.Tests\bin\Debug\nunit.framework.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2017\LastArmy.Tests\bin\Debug\Last Army.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2017\LastArmy.Tests\bin\Debug\Last Army.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2017\LastArmy.Tests\bin\Debug\nunit.framework.xml
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2017\LastArmy.Tests\obj\Debug\LastArmy.Tests.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2017\LastArmy.Tests\obj\Debug\LastArmy.Tests.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army - 20 August 2017\LastArmy.Tests\obj\Debug\LastArmy.Tests.pdb

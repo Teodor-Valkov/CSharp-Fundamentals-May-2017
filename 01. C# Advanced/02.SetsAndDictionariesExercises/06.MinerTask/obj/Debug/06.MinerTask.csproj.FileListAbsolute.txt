@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\06.MinerTask\bin\Debug\06.MinerTask.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\06.MinerTask\bin\Debug\06.MinerTask.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\06.MinerTask\bin\Debug\06.MinerTask.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\06.MinerTask\obj\Debug\06.MinerTask.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\06.MinerTask\obj\Debug\06.MinerTask.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\06.MinerTask\obj\Debug\06.MinerTask.pdb

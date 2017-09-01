@@ -1,0 +1,10 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\07.FunctionalProgrammingExercises\13.TriFunction\bin\Debug\13.TriFunction.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\07.FunctionalProgrammingExercises\13.TriFunction\bin\Debug\13.TriFunction.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\07.FunctionalProgrammingExercises\13.TriFunction\bin\Debug\13.TriFunction.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\07.FunctionalProgrammingExercises\13.TriFunction\obj\Debug\13.TriFunction.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\07.FunctionalProgrammingExercises\13.TriFunction\obj\Debug\13.TriFunction.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\13.TriFunction\bin\Debug\13.TriFunction.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\13.TriFunction\bin\Debug\13.TriFunction.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\13.TriFunction\bin\Debug\13.TriFunction.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\13.TriFunction\obj\Debug\13.TriFunction.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\13.TriFunction\obj\Debug\13.TriFunction.pdb

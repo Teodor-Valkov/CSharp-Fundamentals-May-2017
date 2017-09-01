@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedDebuggingLab\02.BePositive\bin\Debug\02.BePositive.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedDebuggingLab\02.BePositive\bin\Debug\02.BePositive.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedDebuggingLab\02.BePositive\bin\Debug\02.BePositive.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedDebuggingLab\02.BePositive\obj\Debug\02.BePositive.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedDebuggingLab\02.BePositive\obj\Debug\02.BePositive.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedDebuggingLab\02.BePositive\obj\Debug\02.BePositive.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\02.BePositive\bin\Debug\02.BePositive.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\02.BePositive\bin\Debug\02.BePositive.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\02.BePositive\bin\Debug\02.BePositive.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\02.BePositive\obj\Debug\02.BePositive.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\02.BePositive\obj\Debug\02.BePositive.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\02.BePositive\obj\Debug\02.BePositive.pdb

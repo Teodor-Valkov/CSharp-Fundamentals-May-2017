@@ -1,0 +1,5 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\11.LogsAggregator\bin\Debug\11.LogsAggregator.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\11.LogsAggregator\bin\Debug\11.LogsAggregator.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\11.LogsAggregator\bin\Debug\11.LogsAggregator.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\11.LogsAggregator\obj\Debug\11.LogsAggregator.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\11.LogsAggregator\obj\Debug\11.LogsAggregator.pdb

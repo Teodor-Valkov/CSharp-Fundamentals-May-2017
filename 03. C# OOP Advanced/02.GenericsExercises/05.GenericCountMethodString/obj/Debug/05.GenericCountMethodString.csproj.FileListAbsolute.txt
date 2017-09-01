@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.GenericsExercises\05.GenericCountMethodString\bin\Debug\05.GenericCountMethodString.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.GenericsExercises\05.GenericCountMethodString\bin\Debug\05.GenericCountMethodString.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.GenericsExercises\05.GenericCountMethodString\bin\Debug\05.GenericCountMethodString.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.GenericsExercises\05.GenericCountMethodString\obj\Debug\05.GenericCountMethodString.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.GenericsExercises\05.GenericCountMethodString\obj\Debug\05.GenericCountMethodString.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.GenericsExercises\05.GenericCountMethodString\obj\Debug\05.GenericCountMethodString.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsExercises\05.GenericCountMethodString\bin\Debug\05.GenericCountMethodString.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsExercises\05.GenericCountMethodString\bin\Debug\05.GenericCountMethodString.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsExercises\05.GenericCountMethodString\bin\Debug\05.GenericCountMethodString.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsExercises\05.GenericCountMethodString\obj\Debug\05.GenericCountMethodString.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsExercises\05.GenericCountMethodString\obj\Debug\05.GenericCountMethodString.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsExercises\05.GenericCountMethodString\obj\Debug\05.GenericCountMethodString.pdb

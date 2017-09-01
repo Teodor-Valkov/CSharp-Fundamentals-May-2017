@@ -1,0 +1,11 @@
+c:\users\valko\documents\visual studio 2017\Projects\05.ManualStringProcessingLab\02.ParseUrl\bin\Debug\02.ParseUrl.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\05.ManualStringProcessingLab\02.ParseUrl\bin\Debug\02.ParseUrl.exe
+c:\users\valko\documents\visual studio 2017\Projects\05.ManualStringProcessingLab\02.ParseUrl\bin\Debug\02.ParseUrl.pdb
+c:\users\valko\documents\visual studio 2017\Projects\05.ManualStringProcessingLab\02.ParseUrl\obj\Debug\02.ParseUrl.exe
+c:\users\valko\documents\visual studio 2017\Projects\05.ManualStringProcessingLab\02.ParseUrl\obj\Debug\02.ParseUrl.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingLab\02.ParseUrl\bin\Debug\02.ParseUrl.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingLab\02.ParseUrl\bin\Debug\02.ParseUrl.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingLab\02.ParseUrl\bin\Debug\02.ParseUrl.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingLab\02.ParseUrl\obj\Debug\02.ParseUrl.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingLab\02.ParseUrl\obj\Debug\02.ParseUrl.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingLab\02.ParseUrl\obj\Debug\02.ParseUrl.pdb

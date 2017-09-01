@@ -1,0 +1,13 @@
+c:\users\ac milan\documents\visual studio 2012\Projects\FinalExamMarch2016\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\FinalExamMarch2016\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\FinalExamMarch2016\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\FinalExamMarch2016\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\FinalExamMarch2016\03.BasicMarkUpLanguage\obj\Debug\03.BasicMarkUpLanguage.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\FinalExamMarch2016\03.BasicMarkUpLanguage\obj\Debug\03.BasicMarkUpLanguage.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\FinalExamMarch2016\03.BasicMarkUpLanguage\obj\Debug\03.BasicMarkUpLanguage.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\05. FinalExamMarch2016\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\05. FinalExamMarch2016\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\05. FinalExamMarch2016\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\05. FinalExamMarch2016\03.BasicMarkUpLanguage\obj\Debug\03.BasicMarkUpLanguage.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\05. FinalExamMarch2016\03.BasicMarkUpLanguage\obj\Debug\03.BasicMarkUpLanguage.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\05. FinalExamMarch2016\03.BasicMarkUpLanguage\obj\Debug\03.BasicMarkUpLanguage.pdb

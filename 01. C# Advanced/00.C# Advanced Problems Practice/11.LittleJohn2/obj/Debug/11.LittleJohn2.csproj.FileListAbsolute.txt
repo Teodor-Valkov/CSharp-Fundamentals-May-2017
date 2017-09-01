@@ -1,0 +1,10 @@
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\11.LittleJohn2\bin\Debug\11.LittleJohn2.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\11.LittleJohn2\bin\Debug\11.LittleJohn2.exe
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\11.LittleJohn2\bin\Debug\11.LittleJohn2.pdb
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\11.LittleJohn2\obj\Debug\11.LittleJohn2.exe
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\11.LittleJohn2\obj\Debug\11.LittleJohn2.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\11.LittleJohn2\bin\Debug\11.LittleJohn2.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\11.LittleJohn2\bin\Debug\11.LittleJohn2.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\11.LittleJohn2\bin\Debug\11.LittleJohn2.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\11.LittleJohn2\obj\Debug\11.LittleJohn2.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\11.LittleJohn2\obj\Debug\11.LittleJohn2.pdb

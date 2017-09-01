@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\11.PokemonTrainer\bin\Debug\11.PokemonTrainer.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\11.PokemonTrainer\bin\Debug\11.PokemonTrainer.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\11.PokemonTrainer\bin\Debug\11.PokemonTrainer.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\11.PokemonTrainer\obj\Debug\11.PokemonTrainer.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\11.PokemonTrainer\obj\Debug\11.PokemonTrainer.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\11.PokemonTrainer\obj\Debug\11.PokemonTrainer.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\11.PokemonTrainer\bin\Debug\11.PokemonTrainer.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\11.PokemonTrainer\bin\Debug\11.PokemonTrainer.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\11.PokemonTrainer\bin\Debug\11.PokemonTrainer.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\11.PokemonTrainer\obj\Debug\11.PokemonTrainer.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\11.PokemonTrainer\obj\Debug\11.PokemonTrainer.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\11.PokemonTrainer\obj\Debug\11.PokemonTrainer.pdb

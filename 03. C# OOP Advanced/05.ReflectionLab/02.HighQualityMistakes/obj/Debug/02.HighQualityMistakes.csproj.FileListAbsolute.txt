@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionLab\02.HighQualityMistakes\bin\Debug\02.HighQualityMistakes.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionLab\02.HighQualityMistakes\bin\Debug\02.HighQualityMistakes.exe
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionLab\02.HighQualityMistakes\bin\Debug\02.HighQualityMistakes.pdb
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionLab\02.HighQualityMistakes\obj\Debug\02.HighQualityMistakes.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionLab\02.HighQualityMistakes\obj\Debug\02.HighQualityMistakes.exe
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionLab\02.HighQualityMistakes\obj\Debug\02.HighQualityMistakes.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionLab\02.HighQualityMistakes\bin\Debug\02.HighQualityMistakes.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionLab\02.HighQualityMistakes\bin\Debug\02.HighQualityMistakes.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionLab\02.HighQualityMistakes\bin\Debug\02.HighQualityMistakes.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionLab\02.HighQualityMistakes\obj\Debug\02.HighQualityMistakes.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionLab\02.HighQualityMistakes\obj\Debug\02.HighQualityMistakes.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionLab\02.HighQualityMistakes\obj\Debug\02.HighQualityMistakes.pdb

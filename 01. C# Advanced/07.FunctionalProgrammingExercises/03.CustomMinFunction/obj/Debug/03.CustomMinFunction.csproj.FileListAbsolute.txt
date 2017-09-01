@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.pdb

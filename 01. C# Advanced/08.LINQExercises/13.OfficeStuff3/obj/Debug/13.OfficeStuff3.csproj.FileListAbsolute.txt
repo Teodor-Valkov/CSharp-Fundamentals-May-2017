@@ -1,0 +1,5 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\13.OfficeStuff3\bin\Debug\13.OfficeStuff3.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\13.OfficeStuff3\bin\Debug\13.OfficeStuff3.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\13.OfficeStuff3\bin\Debug\13.OfficeStuff3.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\13.OfficeStuff3\obj\Debug\13.OfficeStuff3.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\13.OfficeStuff3\obj\Debug\13.OfficeStuff3.pdb

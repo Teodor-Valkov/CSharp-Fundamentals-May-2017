@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\03.MatricesLab\03.GroupNumbers\bin\Debug\03.GroupNumbers.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\03.MatricesLab\03.GroupNumbers\bin\Debug\03.GroupNumbers.exe
+c:\users\valko\documents\visual studio 2017\Projects\03.MatricesLab\03.GroupNumbers\bin\Debug\03.GroupNumbers.pdb
+c:\users\valko\documents\visual studio 2017\Projects\03.MatricesLab\03.GroupNumbers\obj\Debug\03.GroupNumbers.exe
+c:\users\valko\documents\visual studio 2017\Projects\03.MatricesLab\03.GroupNumbers\obj\Debug\03.GroupNumbers.pdb
+c:\users\valko\documents\visual studio 2017\Projects\03.MatricesLab\03.GroupNumbers\obj\Debug\03.GroupNumbers.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesLab\03.GroupNumbers\bin\Debug\03.GroupNumbers.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesLab\03.GroupNumbers\bin\Debug\03.GroupNumbers.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesLab\03.GroupNumbers\bin\Debug\03.GroupNumbers.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesLab\03.GroupNumbers\obj\Debug\03.GroupNumbers.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesLab\03.GroupNumbers\obj\Debug\03.GroupNumbers.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesLab\03.GroupNumbers\obj\Debug\03.GroupNumbers.pdb

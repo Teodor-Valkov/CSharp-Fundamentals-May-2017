@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\07. FinalExamJune2016\04.CubicAssault\bin\Debug\04.CubicAssault.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\07. FinalExamJune2016\04.CubicAssault\bin\Debug\04.CubicAssault.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\07. FinalExamJune2016\04.CubicAssault\bin\Debug\04.CubicAssault.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\07. FinalExamJune2016\04.CubicAssault\obj\Debug\04.CubicAssault.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\07. FinalExamJune2016\04.CubicAssault\obj\Debug\04.CubicAssault.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\07. FinalExamJune2016\04.CubicAssault\obj\Debug\04.CubicAssault.pdb

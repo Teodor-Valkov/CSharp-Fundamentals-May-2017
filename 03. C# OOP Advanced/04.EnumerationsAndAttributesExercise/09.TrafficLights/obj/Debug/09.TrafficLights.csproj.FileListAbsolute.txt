@@ -1,0 +1,11 @@
+c:\users\valko\documents\visual studio 2017\Projects\04.EnumerationsAndAttributesExercise\09.TrafficLights\bin\Debug\09.TrafficLights.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\04.EnumerationsAndAttributesExercise\09.TrafficLights\bin\Debug\09.TrafficLights.exe
+c:\users\valko\documents\visual studio 2017\Projects\04.EnumerationsAndAttributesExercise\09.TrafficLights\bin\Debug\09.TrafficLights.pdb
+c:\users\valko\documents\visual studio 2017\Projects\04.EnumerationsAndAttributesExercise\09.TrafficLights\obj\Debug\09.TrafficLights.exe
+c:\users\valko\documents\visual studio 2017\Projects\04.EnumerationsAndAttributesExercise\09.TrafficLights\obj\Debug\09.TrafficLights.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationsAndAttributesExercise\09.TrafficLights\bin\Debug\09.TrafficLights.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationsAndAttributesExercise\09.TrafficLights\bin\Debug\09.TrafficLights.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationsAndAttributesExercise\09.TrafficLights\bin\Debug\09.TrafficLights.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationsAndAttributesExercise\09.TrafficLights\obj\Debug\09.TrafficLights.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationsAndAttributesExercise\09.TrafficLights\obj\Debug\09.TrafficLights.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationsAndAttributesExercise\09.TrafficLights\obj\Debug\09.TrafficLights.pdb

@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionExercises\04.BarracksWarsCommandsStrikeBack\bin\Debug\04.BarracksWarsCommandsStrikeBack.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionExercises\04.BarracksWarsCommandsStrikeBack\bin\Debug\04.BarracksWarsCommandsStrikeBack.exe
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionExercises\04.BarracksWarsCommandsStrikeBack\bin\Debug\04.BarracksWarsCommandsStrikeBack.pdb
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionExercises\04.BarracksWarsCommandsStrikeBack\obj\Debug\04.BarracksWarsCommandsStrikeBack.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionExercises\04.BarracksWarsCommandsStrikeBack\obj\Debug\04.BarracksWarsCommandsStrikeBack.exe
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionExercises\04.BarracksWarsCommandsStrikeBack\obj\Debug\04.BarracksWarsCommandsStrikeBack.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionExercises\04.BarracksWarsCommandsStrikeBack\bin\Debug\04.BarracksWarsCommandsStrikeBack.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionExercises\04.BarracksWarsCommandsStrikeBack\bin\Debug\04.BarracksWarsCommandsStrikeBack.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionExercises\04.BarracksWarsCommandsStrikeBack\bin\Debug\04.BarracksWarsCommandsStrikeBack.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionExercises\04.BarracksWarsCommandsStrikeBack\obj\Debug\04.BarracksWarsCommandsStrikeBack.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionExercises\04.BarracksWarsCommandsStrikeBack\obj\Debug\04.BarracksWarsCommandsStrikeBack.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionExercises\04.BarracksWarsCommandsStrikeBack\obj\Debug\04.BarracksWarsCommandsStrikeBack.pdb

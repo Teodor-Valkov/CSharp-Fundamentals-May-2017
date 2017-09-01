@@ -1,0 +1,5 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\09.TextFilter\bin\Debug\09.TextFilter.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\09.TextFilter\bin\Debug\09.TextFilter.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\09.TextFilter\bin\Debug\09.TextFilter.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\09.TextFilter\obj\Debug\09.TextFilter.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\09.TextFilter\obj\Debug\09.TextFilter.pdb

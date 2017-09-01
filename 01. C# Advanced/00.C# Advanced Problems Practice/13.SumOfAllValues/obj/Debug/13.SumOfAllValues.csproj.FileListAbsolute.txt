@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\13.SumOfAllValues\bin\Debug\13.SumOfAllValues.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\13.SumOfAllValues\bin\Debug\13.SumOfAllValues.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\13.SumOfAllValues\bin\Debug\13.SumOfAllValues.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\13.SumOfAllValues\obj\Debug\13.SumOfAllValues.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\13.SumOfAllValues\obj\Debug\13.SumOfAllValues.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\13.SumOfAllValues\obj\Debug\13.SumOfAllValues.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\13.SumOfAllValues\bin\Debug\13.SumOfAllValues.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\13.SumOfAllValues\bin\Debug\13.SumOfAllValues.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\13.SumOfAllValues\bin\Debug\13.SumOfAllValues.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\13.SumOfAllValues\obj\Debug\13.SumOfAllValues.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\13.SumOfAllValues\obj\Debug\13.SumOfAllValues.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\13.SumOfAllValues\obj\Debug\13.SumOfAllValues.pdb

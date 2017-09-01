@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\05.KingGambitExtended\bin\Debug\05.KingGambitExtended.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\05.KingGambitExtended\bin\Debug\05.KingGambitExtended.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\05.KingGambitExtended\bin\Debug\05.KingGambitExtended.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\05.KingGambitExtended\obj\Debug\05.KingGambitExtended.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\05.KingGambitExtended\obj\Debug\05.KingGambitExtended.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\05.KingGambitExtended\obj\Debug\05.KingGambitExtended.pdb

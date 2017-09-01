@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.IteratorsAndComparatorsExercises\07.EqualityLogic\bin\Debug\07.EqualityLogic.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.IteratorsAndComparatorsExercises\07.EqualityLogic\bin\Debug\07.EqualityLogic.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.IteratorsAndComparatorsExercises\07.EqualityLogic\bin\Debug\07.EqualityLogic.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.IteratorsAndComparatorsExercises\07.EqualityLogic\obj\Debug\07.EqualityLogic.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.IteratorsAndComparatorsExercises\07.EqualityLogic\obj\Debug\07.EqualityLogic.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.IteratorsAndComparatorsExercises\07.EqualityLogic\obj\Debug\07.EqualityLogic.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsExercises\07.EqualityLogic\bin\Debug\07.EqualityLogic.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsExercises\07.EqualityLogic\bin\Debug\07.EqualityLogic.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsExercises\07.EqualityLogic\bin\Debug\07.EqualityLogic.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsExercises\07.EqualityLogic\obj\Debug\07.EqualityLogic.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsExercises\07.EqualityLogic\obj\Debug\07.EqualityLogic.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsExercises\07.EqualityLogic\obj\Debug\07.EqualityLogic.pdb

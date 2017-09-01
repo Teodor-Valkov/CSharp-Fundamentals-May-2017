@@ -1,0 +1,5 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\20.MyGirl\bin\Debug\20.MyGirl.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\20.MyGirl\bin\Debug\20.MyGirl.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\20.MyGirl\bin\Debug\20.MyGirl.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\20.MyGirl\obj\Debug\20.MyGirl.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\20.MyGirl\obj\Debug\20.MyGirl.pdb

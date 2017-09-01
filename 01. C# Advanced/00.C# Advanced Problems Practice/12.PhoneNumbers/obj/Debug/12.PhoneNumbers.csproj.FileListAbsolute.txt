@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\12.PhoneNumbers\bin\Debug\12.PhoneNumbers.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\12.PhoneNumbers\bin\Debug\12.PhoneNumbers.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\12.PhoneNumbers\bin\Debug\12.PhoneNumbers.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\12.PhoneNumbers\obj\Debug\12.PhoneNumbers.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\12.PhoneNumbers\obj\Debug\12.PhoneNumbers.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\12.PhoneNumbers\obj\Debug\12.PhoneNumbers.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\12.PhoneNumbers\bin\Debug\12.PhoneNumbers.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\12.PhoneNumbers\bin\Debug\12.PhoneNumbers.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\12.PhoneNumbers\bin\Debug\12.PhoneNumbers.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\12.PhoneNumbers\obj\Debug\12.PhoneNumbers.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\12.PhoneNumbers\obj\Debug\12.PhoneNumbers.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\12.PhoneNumbers\obj\Debug\12.PhoneNumbers.pdb

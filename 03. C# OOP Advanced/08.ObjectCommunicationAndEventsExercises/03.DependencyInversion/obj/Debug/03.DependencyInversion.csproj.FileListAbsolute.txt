@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\08.ObjectCommunicationAndEventsExercises\03.DependencyInversion\bin\Debug\03.DependencyInversion.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\08.ObjectCommunicationAndEventsExercises\03.DependencyInversion\bin\Debug\03.DependencyInversion.exe
+c:\users\valko\documents\visual studio 2017\Projects\08.ObjectCommunicationAndEventsExercises\03.DependencyInversion\bin\Debug\03.DependencyInversion.pdb
+c:\users\valko\documents\visual studio 2017\Projects\08.ObjectCommunicationAndEventsExercises\03.DependencyInversion\obj\Debug\03.DependencyInversion.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\08.ObjectCommunicationAndEventsExercises\03.DependencyInversion\obj\Debug\03.DependencyInversion.exe
+c:\users\valko\documents\visual studio 2017\Projects\08.ObjectCommunicationAndEventsExercises\03.DependencyInversion\obj\Debug\03.DependencyInversion.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\03.DependencyInversion\bin\Debug\03.DependencyInversion.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\03.DependencyInversion\bin\Debug\03.DependencyInversion.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\03.DependencyInversion\bin\Debug\03.DependencyInversion.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\03.DependencyInversion\obj\Debug\03.DependencyInversion.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\03.DependencyInversion\obj\Debug\03.DependencyInversion.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\03.DependencyInversion\obj\Debug\03.DependencyInversion.pdb

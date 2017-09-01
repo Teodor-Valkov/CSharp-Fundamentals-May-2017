@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\08.CustomLinkedList\bin\Debug\08.CustomLinkedList.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\08.CustomLinkedList\bin\Debug\08.CustomLinkedList.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\08.CustomLinkedList\bin\Debug\08.CustomLinkedList.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\08.CustomLinkedList\obj\Debug\08.CustomLinkedList.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\08.CustomLinkedList\obj\Debug\08.CustomLinkedList.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\08.CustomLinkedList\obj\Debug\08.CustomLinkedList.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\07.FunctionalProgrammingExercises\06.ReverseAndExclude\bin\Debug\06.ReverseAndExclude.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\07.FunctionalProgrammingExercises\06.ReverseAndExclude\bin\Debug\06.ReverseAndExclude.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\07.FunctionalProgrammingExercises\06.ReverseAndExclude\bin\Debug\06.ReverseAndExclude.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\07.FunctionalProgrammingExercises\06.ReverseAndExclude\obj\Debug\06.ReverseAndExclude.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\07.FunctionalProgrammingExercises\06.ReverseAndExclude\obj\Debug\06.ReverseAndExclude.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\07.FunctionalProgrammingExercises\06.ReverseAndExclude\obj\Debug\06.ReverseAndExclude.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\06.ReverseAndExclude\bin\Debug\06.ReverseAndExclude.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\06.ReverseAndExclude\bin\Debug\06.ReverseAndExclude.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\06.ReverseAndExclude\bin\Debug\06.ReverseAndExclude.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\06.ReverseAndExclude\obj\Debug\06.ReverseAndExclude.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\06.ReverseAndExclude\obj\Debug\06.ReverseAndExclude.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\06.ReverseAndExclude\obj\Debug\06.ReverseAndExclude.pdb

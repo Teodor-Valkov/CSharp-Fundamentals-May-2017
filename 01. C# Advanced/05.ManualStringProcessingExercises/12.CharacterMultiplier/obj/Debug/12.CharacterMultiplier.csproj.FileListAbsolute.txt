@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\12.CharacterMultiplier\bin\Debug\12.CharacterMultiplier.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\12.CharacterMultiplier\bin\Debug\12.CharacterMultiplier.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\12.CharacterMultiplier\bin\Debug\12.CharacterMultiplier.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\12.CharacterMultiplier\obj\Debug\12.CharacterMultiplier.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\12.CharacterMultiplier\obj\Debug\12.CharacterMultiplier.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\12.CharacterMultiplier\obj\Debug\12.CharacterMultiplier.pdb

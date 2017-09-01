@@ -1,0 +1,22 @@
+C:\Users\valko\Desktop\SoftUniInjector\bin\Debug\netcoreapp1.1\SoftUniInjector.deps.json
+C:\Users\valko\Desktop\SoftUniInjector\bin\Debug\netcoreapp1.1\SoftUniInjector.runtimeconfig.json
+C:\Users\valko\Desktop\SoftUniInjector\bin\Debug\netcoreapp1.1\SoftUniInjector.runtimeconfig.dev.json
+C:\Users\valko\Desktop\SoftUniInjector\bin\Debug\netcoreapp1.1\SoftUniInjector.dll
+C:\Users\valko\Desktop\SoftUniInjector\bin\Debug\netcoreapp1.1\SoftUniInjector.pdb
+C:\Users\valko\Desktop\SoftUniInjector\obj\Debug\netcoreapp1.1\SoftUniInjector.csprojResolveAssemblyReference.cache
+C:\Users\valko\Desktop\SoftUniInjector\obj\Debug\netcoreapp1.1\SoftUniInjector.Resources.Vars.resources
+C:\Users\valko\Desktop\SoftUniInjector\obj\Debug\netcoreapp1.1\SoftUniInjector.csproj.GenerateResource.Cache
+C:\Users\valko\Desktop\SoftUniInjector\obj\Debug\netcoreapp1.1\SoftUniInjector.AssemblyInfo.cs
+C:\Users\valko\Desktop\SoftUniInjector\obj\Debug\netcoreapp1.1\SoftUniInjector.dll
+C:\Users\valko\Desktop\SoftUniInjector\obj\Debug\netcoreapp1.1\SoftUniInjector.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\09.DependencyInjectionLab\SoftUniInjector\bin\Debug\netcoreapp1.1\SoftUniInjector.deps.json
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\09.DependencyInjectionLab\SoftUniInjector\bin\Debug\netcoreapp1.1\SoftUniInjector.runtimeconfig.json
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\09.DependencyInjectionLab\SoftUniInjector\bin\Debug\netcoreapp1.1\SoftUniInjector.runtimeconfig.dev.json
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\09.DependencyInjectionLab\SoftUniInjector\bin\Debug\netcoreapp1.1\SoftUniInjector.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\09.DependencyInjectionLab\SoftUniInjector\bin\Debug\netcoreapp1.1\SoftUniInjector.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\09.DependencyInjectionLab\SoftUniInjector\obj\Debug\netcoreapp1.1\SoftUniInjector.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\09.DependencyInjectionLab\SoftUniInjector\obj\Debug\netcoreapp1.1\SoftUniInjector.Resources.Vars.resources
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\09.DependencyInjectionLab\SoftUniInjector\obj\Debug\netcoreapp1.1\SoftUniInjector.csproj.GenerateResource.Cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\09.DependencyInjectionLab\SoftUniInjector\obj\Debug\netcoreapp1.1\SoftUniInjector.AssemblyInfo.cs
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\09.DependencyInjectionLab\SoftUniInjector\obj\Debug\netcoreapp1.1\SoftUniInjector.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\09.DependencyInjectionLab\SoftUniInjector\obj\Debug\netcoreapp1.1\SoftUniInjector.pdb

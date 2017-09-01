@@ -1,0 +1,65 @@
+1 namespace _02.LineNumbers
+2 {
+3     using System;
+4     using System.IO;
+5 
+6     class StartUp
+7     {
+8         static void Main()
+9         {
+10             StreamReader reader = CreateReader();
+11             StreamWriter writer = CreateWriter();
+12 
+13             string input = string.Empty;
+14 
+15             int lineNumber = 1;
+16 
+17             using (reader)
+18             {
+19                 using (writer)
+20                 {
+21                     while ((input = reader.ReadLine()) != null)
+22                     {
+23                         writer.WriteLine($"{lineNumber} {input}");
+24                         lineNumber++;
+25                     }
+26                 }
+27             }
+28 
+29             Console.WriteLine("Done!:");
+30             Console.WriteLine($"{Environment.NewLine}{File.ReadAllText(@"..\..\LineNumbers.txt")}");
+31         }
+32 
+33         private static StreamReader CreateReader()
+34         {
+35             StreamReader reader = null;
+36 
+37             try
+38             {
+39                 reader = new StreamReader(@"..\..\StartUp.cs");
+40             }
+41             catch (FileNotFoundException)
+42             {
+43                 Console.WriteLine("File not found!");
+44             }
+45 
+46             return reader;
+47         }
+48 
+49         private static StreamWriter CreateWriter()
+50         {
+51             StreamWriter writer = null;
+52 
+53             try
+54             {
+55                 writer = new StreamWriter(@"..\..\LineNumbers.txt");
+56             }
+57             catch (IOException)
+58             {
+59                 Console.WriteLine("Unable to create output file!");
+60             }
+61 
+62             return writer;
+63         }
+64     }
+65 }

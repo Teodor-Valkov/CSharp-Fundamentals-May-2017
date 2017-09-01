@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\08.ObjectCommunicationAndEventsExercises\04.WorkForce\bin\Debug\04.WorkForce.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\08.ObjectCommunicationAndEventsExercises\04.WorkForce\bin\Debug\04.WorkForce.exe
+c:\users\valko\documents\visual studio 2017\Projects\08.ObjectCommunicationAndEventsExercises\04.WorkForce\bin\Debug\04.WorkForce.pdb
+c:\users\valko\documents\visual studio 2017\Projects\08.ObjectCommunicationAndEventsExercises\04.WorkForce\obj\Debug\04.WorkForce.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\08.ObjectCommunicationAndEventsExercises\04.WorkForce\obj\Debug\04.WorkForce.exe
+c:\users\valko\documents\visual studio 2017\Projects\08.ObjectCommunicationAndEventsExercises\04.WorkForce\obj\Debug\04.WorkForce.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\04.WorkForce\bin\Debug\04.WorkForce.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\04.WorkForce\bin\Debug\04.WorkForce.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\04.WorkForce\bin\Debug\04.WorkForce.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\04.WorkForce\obj\Debug\04.WorkForce.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\04.WorkForce\obj\Debug\04.WorkForce.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\04.WorkForce\obj\Debug\04.WorkForce.pdb

@@ -1,0 +1,5 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\09.HttpServer\bin\Debug\09.HttpServer.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\09.HttpServer\bin\Debug\09.HttpServer.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\09.HttpServer\bin\Debug\09.HttpServer.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\09.HttpServer\obj\Debug\09.HttpServer.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\09.HttpServer\obj\Debug\09.HttpServer.pdb

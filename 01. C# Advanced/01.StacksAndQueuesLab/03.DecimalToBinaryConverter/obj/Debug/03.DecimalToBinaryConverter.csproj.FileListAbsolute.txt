@@ -1,0 +1,11 @@
+c:\users\valko\documents\visual studio 2015\Projects\01.StacksAndQueuesLab\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.exe.config
+c:\users\valko\documents\visual studio 2015\Projects\01.StacksAndQueuesLab\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.exe
+c:\users\valko\documents\visual studio 2015\Projects\01.StacksAndQueuesLab\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.pdb
+c:\users\valko\documents\visual studio 2015\Projects\01.StacksAndQueuesLab\03.DecimalToBinaryConverter\obj\Debug\03.DecimalToBinaryConverter.exe
+c:\users\valko\documents\visual studio 2015\Projects\01.StacksAndQueuesLab\03.DecimalToBinaryConverter\obj\Debug\03.DecimalToBinaryConverter.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesLab\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesLab\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesLab\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesLab\03.DecimalToBinaryConverter\obj\Debug\03.DecimalToBinaryConverter.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesLab\03.DecimalToBinaryConverter\obj\Debug\03.DecimalToBinaryConverter.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesLab\03.DecimalToBinaryConverter\obj\Debug\03.DecimalToBinaryConverter.pdb

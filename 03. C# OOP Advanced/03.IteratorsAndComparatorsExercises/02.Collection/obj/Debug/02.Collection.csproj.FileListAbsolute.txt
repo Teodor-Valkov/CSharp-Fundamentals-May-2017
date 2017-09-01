@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.IteratorsAndComparatorsExercises\02.Collection\bin\Debug\02.Collection.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.IteratorsAndComparatorsExercises\02.Collection\bin\Debug\02.Collection.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.IteratorsAndComparatorsExercises\02.Collection\bin\Debug\02.Collection.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.IteratorsAndComparatorsExercises\02.Collection\obj\Debug\02.Collection.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.IteratorsAndComparatorsExercises\02.Collection\obj\Debug\02.Collection.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.IteratorsAndComparatorsExercises\02.Collection\obj\Debug\02.Collection.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsExercises\02.Collection\bin\Debug\02.Collection.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsExercises\02.Collection\bin\Debug\02.Collection.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsExercises\02.Collection\bin\Debug\02.Collection.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsExercises\02.Collection\obj\Debug\02.Collection.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsExercises\02.Collection\obj\Debug\02.Collection.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsExercises\02.Collection\obj\Debug\02.Collection.pdb

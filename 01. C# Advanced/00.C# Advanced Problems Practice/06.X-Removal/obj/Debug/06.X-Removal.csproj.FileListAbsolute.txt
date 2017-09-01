@@ -1,0 +1,10 @@
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\06.X-Removal\bin\Debug\06.X-Removal.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\06.X-Removal\bin\Debug\06.X-Removal.exe
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\06.X-Removal\bin\Debug\06.X-Removal.pdb
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\06.X-Removal\obj\Debug\06.X-Removal.exe
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\06.X-Removal\obj\Debug\06.X-Removal.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\06.X-Removal\bin\Debug\06.X-Removal.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\06.X-Removal\bin\Debug\06.X-Removal.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\06.X-Removal\bin\Debug\06.X-Removal.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\06.X-Removal\obj\Debug\06.X-Removal.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\06.X-Removal\obj\Debug\06.X-Removal.pdb

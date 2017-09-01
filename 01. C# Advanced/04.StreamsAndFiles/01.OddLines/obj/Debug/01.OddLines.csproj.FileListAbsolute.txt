@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\01.OddLines\bin\Debug\01.OddLines.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\01.OddLines\bin\Debug\01.OddLines.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\01.OddLines\bin\Debug\01.OddLines.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\01.OddLines\obj\Debug\01.OddLines.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\01.OddLines\obj\Debug\01.OddLines.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\01.OddLines\obj\Debug\01.OddLines.pdb

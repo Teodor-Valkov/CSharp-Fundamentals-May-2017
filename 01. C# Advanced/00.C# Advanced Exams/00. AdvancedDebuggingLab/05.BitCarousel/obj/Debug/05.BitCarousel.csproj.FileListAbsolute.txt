@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\05.BitCarousel\bin\Debug\05.BitCarousel.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\05.BitCarousel\bin\Debug\05.BitCarousel.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\05.BitCarousel\bin\Debug\05.BitCarousel.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\05.BitCarousel\obj\Debug\05.BitCarousel.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\05.BitCarousel\obj\Debug\05.BitCarousel.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\05.BitCarousel\obj\Debug\05.BitCarousel.pdb

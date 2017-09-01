@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\04.EnumerationsAndAttributesExercise\06.CustomEnumAttribute\bin\Debug\06.CustomEnumAttribute.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\04.EnumerationsAndAttributesExercise\06.CustomEnumAttribute\bin\Debug\06.CustomEnumAttribute.exe
+c:\users\valko\documents\visual studio 2017\Projects\04.EnumerationsAndAttributesExercise\06.CustomEnumAttribute\bin\Debug\06.CustomEnumAttribute.pdb
+c:\users\valko\documents\visual studio 2017\Projects\04.EnumerationsAndAttributesExercise\06.CustomEnumAttribute\obj\Debug\06.CustomEnumAttribute.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\04.EnumerationsAndAttributesExercise\06.CustomEnumAttribute\obj\Debug\06.CustomEnumAttribute.exe
+c:\users\valko\documents\visual studio 2017\Projects\04.EnumerationsAndAttributesExercise\06.CustomEnumAttribute\obj\Debug\06.CustomEnumAttribute.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationsAndAttributesExercise\06.CustomEnumAttribute\bin\Debug\06.CustomEnumAttribute.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationsAndAttributesExercise\06.CustomEnumAttribute\bin\Debug\06.CustomEnumAttribute.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationsAndAttributesExercise\06.CustomEnumAttribute\bin\Debug\06.CustomEnumAttribute.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationsAndAttributesExercise\06.CustomEnumAttribute\obj\Debug\06.CustomEnumAttribute.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationsAndAttributesExercise\06.CustomEnumAttribute\obj\Debug\06.CustomEnumAttribute.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationsAndAttributesExercise\06.CustomEnumAttribute\obj\Debug\06.CustomEnumAttribute.pdb

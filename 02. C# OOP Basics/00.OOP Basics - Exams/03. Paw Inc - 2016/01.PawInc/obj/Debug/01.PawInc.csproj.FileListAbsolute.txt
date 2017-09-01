@@ -1,0 +1,18 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\RetakeExamAugust2017\01.PawInc\bin\Debug\01.PawInc.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\RetakeExamAugust2017\01.PawInc\bin\Debug\01.PawInc.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\RetakeExamAugust2017\01.PawInc\bin\Debug\01.PawInc.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\RetakeExamAugust2017\01.PawInc\obj\Debug\01.PawInc.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\RetakeExamAugust2017\01.PawInc\obj\Debug\01.PawInc.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\RetakeExamAugust2017\01.PawInc\obj\Debug\01.PawInc.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.OOPExams\03. Paw Inc - 2016\01.PawInc\bin\Debug\01.PawInc.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.OOPExams\03. Paw Inc - 2016\01.PawInc\bin\Debug\01.PawInc.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.OOPExams\03. Paw Inc - 2016\01.PawInc\bin\Debug\01.PawInc.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.OOPExams\03. Paw Inc - 2016\01.PawInc\obj\Debug\01.PawInc.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.OOPExams\03. Paw Inc - 2016\01.PawInc\obj\Debug\01.PawInc.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.OOPExams\03. Paw Inc - 2016\01.PawInc\obj\Debug\01.PawInc.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\00.OOP Basics - Exams\03. Paw Inc - 2016\01.PawInc\bin\Debug\01.PawInc.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\00.OOP Basics - Exams\03. Paw Inc - 2016\01.PawInc\bin\Debug\01.PawInc.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\00.OOP Basics - Exams\03. Paw Inc - 2016\01.PawInc\bin\Debug\01.PawInc.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\00.OOP Basics - Exams\03. Paw Inc - 2016\01.PawInc\obj\Debug\01.PawInc.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\00.OOP Basics - Exams\03. Paw Inc - 2016\01.PawInc\obj\Debug\01.PawInc.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\00.OOP Basics - Exams\03. Paw Inc - 2016\01.PawInc\obj\Debug\01.PawInc.pdb

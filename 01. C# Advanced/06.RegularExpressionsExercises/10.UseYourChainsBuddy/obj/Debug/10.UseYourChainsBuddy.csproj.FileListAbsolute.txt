@@ -1,0 +1,5 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\10.UseYourChainsBuddy\bin\Debug\10.UseYourChainsBuddy.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\10.UseYourChainsBuddy\bin\Debug\10.UseYourChainsBuddy.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\10.UseYourChainsBuddy\bin\Debug\10.UseYourChainsBuddy.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\10.UseYourChainsBuddy\obj\Debug\10.UseYourChainsBuddy.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\10.UseYourChainsBuddy\obj\Debug\10.UseYourChainsBuddy.pdb

@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.pdb

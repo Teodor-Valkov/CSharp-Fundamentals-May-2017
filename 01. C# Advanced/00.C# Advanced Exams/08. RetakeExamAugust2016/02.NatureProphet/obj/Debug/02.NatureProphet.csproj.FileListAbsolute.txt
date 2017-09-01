@@ -1,0 +1,11 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\RetakeExamAugust2016\02.NatureProphet\bin\Debug\02.NatureProphet.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\RetakeExamAugust2016\02.NatureProphet\bin\Debug\02.NatureProphet.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\RetakeExamAugust2016\02.NatureProphet\bin\Debug\02.NatureProphet.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\RetakeExamAugust2016\02.NatureProphet\obj\Debug\02.NatureProphet.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\RetakeExamAugust2016\02.NatureProphet\obj\Debug\02.NatureProphet.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\08. RetakeExamAugust2016\02.NatureProphet\bin\Debug\02.NatureProphet.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\08. RetakeExamAugust2016\02.NatureProphet\bin\Debug\02.NatureProphet.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\08. RetakeExamAugust2016\02.NatureProphet\bin\Debug\02.NatureProphet.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\08. RetakeExamAugust2016\02.NatureProphet\obj\Debug\02.NatureProphet.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\08. RetakeExamAugust2016\02.NatureProphet\obj\Debug\02.NatureProphet.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\08. RetakeExamAugust2016\02.NatureProphet\obj\Debug\02.NatureProphet.pdb

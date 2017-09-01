@@ -1,0 +1,10 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\08.CustomLinkedList.Tests\bin\Debug\08.CustomLinkedList.Tests.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\08.CustomLinkedList.Tests\bin\Debug\08.CustomLinkedList.Tests.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\08.CustomLinkedList.Tests\bin\Debug\08.CustomLinkedList.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\08.CustomLinkedList.Tests\bin\Debug\nunit.framework.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\08.CustomLinkedList.Tests\bin\Debug\08.CustomLinkedList.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\08.CustomLinkedList.Tests\bin\Debug\08.CustomLinkedList.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\08.CustomLinkedList.Tests\bin\Debug\nunit.framework.xml
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\08.CustomLinkedList.Tests\obj\Debug\08.CustomLinkedList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\08.CustomLinkedList.Tests\obj\Debug\08.CustomLinkedList.Tests.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\08.CustomLinkedList.Tests\obj\Debug\08.CustomLinkedList.Tests.pdb

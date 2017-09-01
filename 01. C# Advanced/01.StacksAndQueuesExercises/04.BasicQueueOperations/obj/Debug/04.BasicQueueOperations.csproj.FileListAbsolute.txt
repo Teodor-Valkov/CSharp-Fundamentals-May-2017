@@ -1,0 +1,11 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.StacksAndQueuesExercises\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.StacksAndQueuesExercises\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.StacksAndQueuesExercises\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.StacksAndQueuesExercises\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.StacksAndQueuesExercises\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.pdb

@@ -1,0 +1,14 @@
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\04.Recharge.Tests\bin\Debug\04.Recharge.Tests.dll
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\04.Recharge.Tests\bin\Debug\04.Recharge.Tests.pdb
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\04.Recharge.Tests\bin\Debug\nunit.framework.dll
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\04.Recharge.Tests\bin\Debug\nunit.framework.xml
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\04.Recharge.Tests\obj\Debug\04.Recharge.Tests.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\04.Recharge.Tests\obj\Debug\04.Recharge.Tests.dll
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\04.Recharge.Tests\obj\Debug\04.Recharge.Tests.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\04.Recharge.Tests\bin\Debug\04.Recharge.Tests.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\04.Recharge.Tests\bin\Debug\04.Recharge.Tests.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\04.Recharge.Tests\bin\Debug\nunit.framework.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\04.Recharge.Tests\bin\Debug\nunit.framework.xml
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\04.Recharge.Tests\obj\Debug\04.Recharge.Tests.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\04.Recharge.Tests\obj\Debug\04.Recharge.Tests.dll
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\04.Recharge.Tests\obj\Debug\04.Recharge.Tests.pdb

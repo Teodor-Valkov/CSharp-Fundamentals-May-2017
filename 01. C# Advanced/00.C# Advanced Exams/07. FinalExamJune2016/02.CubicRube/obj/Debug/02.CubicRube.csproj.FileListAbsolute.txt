@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\07. FinalExamJune2016\02.CubicRube\bin\Debug\02.CubicRube.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\07. FinalExamJune2016\02.CubicRube\bin\Debug\02.CubicRube.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\07. FinalExamJune2016\02.CubicRube\bin\Debug\02.CubicRube.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\07. FinalExamJune2016\02.CubicRube\obj\Debug\02.CubicRube.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\07. FinalExamJune2016\02.CubicRube\obj\Debug\02.CubicRube.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\07. FinalExamJune2016\02.CubicRube\obj\Debug\02.CubicRube.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\07. FinalExamJune2016\02.CubicRube\bin\Debug\02.CubicRube.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\07. FinalExamJune2016\02.CubicRube\bin\Debug\02.CubicRube.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\07. FinalExamJune2016\02.CubicRube\bin\Debug\02.CubicRube.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\07. FinalExamJune2016\02.CubicRube\obj\Debug\02.CubicRube.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\07. FinalExamJune2016\02.CubicRube\obj\Debug\02.CubicRube.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\07. FinalExamJune2016\02.CubicRube\obj\Debug\02.CubicRube.pdb

@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.StreamsAndFiles\09.HttpServer2\bin\Debug\09.HttpServer2.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.StreamsAndFiles\09.HttpServer2\bin\Debug\09.HttpServer2.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.StreamsAndFiles\09.HttpServer2\bin\Debug\09.HttpServer2.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.StreamsAndFiles\09.HttpServer2\obj\Debug\09.HttpServer2.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.StreamsAndFiles\09.HttpServer2\obj\Debug\09.HttpServer2.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.StreamsAndFiles\09.HttpServer2\obj\Debug\09.HttpServer2.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\09.HttpServer2\bin\Debug\09.HttpServer2.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\09.HttpServer2\bin\Debug\09.HttpServer2.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\09.HttpServer2\bin\Debug\09.HttpServer2.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\09.HttpServer2\obj\Debug\09.HttpServer2.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\09.HttpServer2\obj\Debug\09.HttpServer2.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\09.HttpServer2\obj\Debug\09.HttpServer2.pdb

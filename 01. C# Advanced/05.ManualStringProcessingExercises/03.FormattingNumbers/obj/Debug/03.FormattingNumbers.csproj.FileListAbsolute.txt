@@ -1,0 +1,10 @@
+c:\users\valko\documents\visual studio 2017\Projects\ManualStringProcessingExercises\03.FormattingNumbers\bin\Debug\03.FormattingNumbers.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\ManualStringProcessingExercises\03.FormattingNumbers\bin\Debug\03.FormattingNumbers.exe
+c:\users\valko\documents\visual studio 2017\Projects\ManualStringProcessingExercises\03.FormattingNumbers\bin\Debug\03.FormattingNumbers.pdb
+c:\users\valko\documents\visual studio 2017\Projects\ManualStringProcessingExercises\03.FormattingNumbers\obj\Debug\03.FormattingNumbers.exe
+c:\users\valko\documents\visual studio 2017\Projects\ManualStringProcessingExercises\03.FormattingNumbers\obj\Debug\03.FormattingNumbers.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\03.FormattingNumbers\bin\Debug\03.FormattingNumbers.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\03.FormattingNumbers\bin\Debug\03.FormattingNumbers.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\03.FormattingNumbers\bin\Debug\03.FormattingNumbers.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\03.FormattingNumbers\obj\Debug\03.FormattingNumbers.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\03.FormattingNumbers\obj\Debug\03.FormattingNumbers.pdb

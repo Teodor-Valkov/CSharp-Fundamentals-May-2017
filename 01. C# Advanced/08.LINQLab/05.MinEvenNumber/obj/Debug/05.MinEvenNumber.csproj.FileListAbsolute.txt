@@ -1,0 +1,11 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\08.LINQLab\05.MinEvenNumber\bin\Debug\05.MinEvenNumber.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\08.LINQLab\05.MinEvenNumber\bin\Debug\05.MinEvenNumber.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\08.LINQLab\05.MinEvenNumber\bin\Debug\05.MinEvenNumber.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\08.LINQLab\05.MinEvenNumber\obj\Debug\05.MinEvenNumber.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\08.LINQLab\05.MinEvenNumber\obj\Debug\05.MinEvenNumber.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\05.MinEvenNumber\bin\Debug\05.MinEvenNumber.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\05.MinEvenNumber\bin\Debug\05.MinEvenNumber.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\05.MinEvenNumber\bin\Debug\05.MinEvenNumber.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\05.MinEvenNumber\obj\Debug\05.MinEvenNumber.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\05.MinEvenNumber\obj\Debug\05.MinEvenNumber.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\05.MinEvenNumber\obj\Debug\05.MinEvenNumber.pdb

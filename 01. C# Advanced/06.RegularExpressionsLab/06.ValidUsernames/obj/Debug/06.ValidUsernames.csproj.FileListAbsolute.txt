@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\06.RegularExpressionsLab\06.ValidUsernames\bin\Debug\06.ValidUsernames.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\06.RegularExpressionsLab\06.ValidUsernames\bin\Debug\06.ValidUsernames.exe
+c:\users\valko\documents\visual studio 2017\Projects\06.RegularExpressionsLab\06.ValidUsernames\bin\Debug\06.ValidUsernames.pdb
+c:\users\valko\documents\visual studio 2017\Projects\06.RegularExpressionsLab\06.ValidUsernames\obj\Debug\06.ValidUsernames.exe
+c:\users\valko\documents\visual studio 2017\Projects\06.RegularExpressionsLab\06.ValidUsernames\obj\Debug\06.ValidUsernames.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\06.RegularExpressionsLab\06.ValidUsernames\obj\Debug\06.ValidUsernames.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsLab\06.ValidUsernames\bin\Debug\06.ValidUsernames.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsLab\06.ValidUsernames\bin\Debug\06.ValidUsernames.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsLab\06.ValidUsernames\bin\Debug\06.ValidUsernames.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsLab\06.ValidUsernames\obj\Debug\06.ValidUsernames.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsLab\06.ValidUsernames\obj\Debug\06.ValidUsernames.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsLab\06.ValidUsernames\obj\Debug\06.ValidUsernames.pdb

@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\07.VladkoNotebook\bin\Debug\07.VladkoNotebook.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\07.VladkoNotebook\bin\Debug\07.VladkoNotebook.exe
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\07.VladkoNotebook\bin\Debug\07.VladkoNotebook.pdb
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\07.VladkoNotebook\obj\Debug\07.VladkoNotebook.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\07.VladkoNotebook\obj\Debug\07.VladkoNotebook.exe
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedExamProblemsPractice\07.VladkoNotebook\obj\Debug\07.VladkoNotebook.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\07.VladkoNotebook\bin\Debug\07.VladkoNotebook.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\07.VladkoNotebook\bin\Debug\07.VladkoNotebook.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\07.VladkoNotebook\bin\Debug\07.VladkoNotebook.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\07.VladkoNotebook\obj\Debug\07.VladkoNotebook.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\07.VladkoNotebook\obj\Debug\07.VladkoNotebook.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\07.VladkoNotebook\obj\Debug\07.VladkoNotebook.pdb

@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\02.EncapsulationExercises\04.PizzaCalories\bin\Debug\04.PizzaCalories.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\02.EncapsulationExercises\04.PizzaCalories\bin\Debug\04.PizzaCalories.exe
+c:\users\valko\documents\visual studio 2017\Projects\02.EncapsulationExercises\04.PizzaCalories\bin\Debug\04.PizzaCalories.pdb
+c:\users\valko\documents\visual studio 2017\Projects\02.EncapsulationExercises\04.PizzaCalories\obj\Debug\04.PizzaCalories.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\02.EncapsulationExercises\04.PizzaCalories\obj\Debug\04.PizzaCalories.exe
+c:\users\valko\documents\visual studio 2017\Projects\02.EncapsulationExercises\04.PizzaCalories\obj\Debug\04.PizzaCalories.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\02.EncapsulationExercises\04.PizzaCalories\bin\Debug\04.PizzaCalories.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\02.EncapsulationExercises\04.PizzaCalories\bin\Debug\04.PizzaCalories.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\02.EncapsulationExercises\04.PizzaCalories\bin\Debug\04.PizzaCalories.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\02.EncapsulationExercises\04.PizzaCalories\obj\Debug\04.PizzaCalories.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\02.EncapsulationExercises\04.PizzaCalories\obj\Debug\04.PizzaCalories.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\02.EncapsulationExercises\04.PizzaCalories\obj\Debug\04.PizzaCalories.pdb

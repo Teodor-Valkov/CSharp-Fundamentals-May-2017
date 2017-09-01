@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionExercises\05.BarracksWarsReturnOfTheDependencies\bin\Debug\05.BarracksWarsReturnOfTheDependencies.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionExercises\05.BarracksWarsReturnOfTheDependencies\bin\Debug\05.BarracksWarsReturnOfTheDependencies.exe
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionExercises\05.BarracksWarsReturnOfTheDependencies\bin\Debug\05.BarracksWarsReturnOfTheDependencies.pdb
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionExercises\05.BarracksWarsReturnOfTheDependencies\obj\Debug\05.BarracksWarsReturnOfTheDependencies.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionExercises\05.BarracksWarsReturnOfTheDependencies\obj\Debug\05.BarracksWarsReturnOfTheDependencies.exe
+c:\users\valko\documents\visual studio 2017\Projects\05.ReflectionExercises\05.BarracksWarsReturnOfTheDependencies\obj\Debug\05.BarracksWarsReturnOfTheDependencies.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionExercises\05.BarracksWarsReturnOfTheDependencies\bin\Debug\05.BarracksWarsReturnOfTheDependencies.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionExercises\05.BarracksWarsReturnOfTheDependencies\bin\Debug\05.BarracksWarsReturnOfTheDependencies.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionExercises\05.BarracksWarsReturnOfTheDependencies\bin\Debug\05.BarracksWarsReturnOfTheDependencies.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionExercises\05.BarracksWarsReturnOfTheDependencies\obj\Debug\05.BarracksWarsReturnOfTheDependencies.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionExercises\05.BarracksWarsReturnOfTheDependencies\obj\Debug\05.BarracksWarsReturnOfTheDependencies.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionExercises\05.BarracksWarsReturnOfTheDependencies\obj\Debug\05.BarracksWarsReturnOfTheDependencies.pdb

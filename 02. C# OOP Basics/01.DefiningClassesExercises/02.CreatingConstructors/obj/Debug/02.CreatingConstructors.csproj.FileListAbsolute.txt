@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\01.DefiningClassesExercises\02.CreatingConstructors\bin\Debug\02.CreatingConstructors.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\01.DefiningClassesExercises\02.CreatingConstructors\bin\Debug\02.CreatingConstructors.exe
+c:\users\valko\documents\visual studio 2017\Projects\01.DefiningClassesExercises\02.CreatingConstructors\bin\Debug\02.CreatingConstructors.pdb
+c:\users\valko\documents\visual studio 2017\Projects\01.DefiningClassesExercises\02.CreatingConstructors\obj\Debug\02.CreatingConstructors.exe
+c:\users\valko\documents\visual studio 2017\Projects\01.DefiningClassesExercises\02.CreatingConstructors\obj\Debug\02.CreatingConstructors.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.DefiningClassesExercises\02.CreatingConstructors\obj\Debug\02.CreatingConstructors.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\02.CreatingConstructors\bin\Debug\02.CreatingConstructors.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\02.CreatingConstructors\bin\Debug\02.CreatingConstructors.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\02.CreatingConstructors\bin\Debug\02.CreatingConstructors.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\02.CreatingConstructors\obj\Debug\02.CreatingConstructors.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\02.CreatingConstructors\obj\Debug\02.CreatingConstructors.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\02.CreatingConstructors\obj\Debug\02.CreatingConstructors.pdb

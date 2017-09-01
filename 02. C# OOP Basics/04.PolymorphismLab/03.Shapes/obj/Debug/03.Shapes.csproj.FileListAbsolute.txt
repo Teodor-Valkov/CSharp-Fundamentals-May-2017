@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.PolymorphismLab\03.Shapes\bin\Debug\03.Shapes.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.PolymorphismLab\03.Shapes\bin\Debug\03.Shapes.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.PolymorphismLab\03.Shapes\bin\Debug\03.Shapes.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.PolymorphismLab\03.Shapes\obj\Debug\03.Shapes.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.PolymorphismLab\03.Shapes\obj\Debug\03.Shapes.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.PolymorphismLab\03.Shapes\obj\Debug\03.Shapes.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\04.PolymorphismLab\03.Shapes\bin\Debug\03.Shapes.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\04.PolymorphismLab\03.Shapes\bin\Debug\03.Shapes.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\04.PolymorphismLab\03.Shapes\bin\Debug\03.Shapes.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\04.PolymorphismLab\03.Shapes\obj\Debug\03.Shapes.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\04.PolymorphismLab\03.Shapes\obj\Debug\03.Shapes.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\04.PolymorphismLab\03.Shapes\obj\Debug\03.Shapes.pdb

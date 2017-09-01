@@ -1,0 +1,11 @@
+c:\users\valko\documents\visual studio 2015\Projects\01.StacksAndQueuesLab\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.exe.config
+c:\users\valko\documents\visual studio 2015\Projects\01.StacksAndQueuesLab\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.exe
+c:\users\valko\documents\visual studio 2015\Projects\01.StacksAndQueuesLab\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.pdb
+c:\users\valko\documents\visual studio 2015\Projects\01.StacksAndQueuesLab\02.SimpleCalculator\obj\Debug\02.SimpleCalculator.exe
+c:\users\valko\documents\visual studio 2015\Projects\01.StacksAndQueuesLab\02.SimpleCalculator\obj\Debug\02.SimpleCalculator.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesLab\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesLab\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesLab\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesLab\02.SimpleCalculator\obj\Debug\02.SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesLab\02.SimpleCalculator\obj\Debug\02.SimpleCalculator.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesLab\02.SimpleCalculator\obj\Debug\02.SimpleCalculator.pdb

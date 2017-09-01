@@ -1,0 +1,18 @@
+C:\Users\valko\Desktop\LastArmy\bin\Debug\Last Army.exe.config
+C:\Users\valko\Desktop\LastArmy\bin\Debug\Last Army.exe
+C:\Users\valko\Desktop\LastArmy\bin\Debug\Last Army.pdb
+C:\Users\valko\Desktop\LastArmy\obj\Debug\Last Army.csprojResolveAssemblyReference.cache
+C:\Users\valko\Desktop\LastArmy\obj\Debug\Last Army.exe
+C:\Users\valko\Desktop\LastArmy\obj\Debug\Last Army.pdb
+C:\Users\valko\Desktop\LastArmy - 40 from 100\bin\Debug\Last Army.exe.config
+C:\Users\valko\Desktop\LastArmy - 40 from 100\bin\Debug\Last Army.exe
+C:\Users\valko\Desktop\LastArmy - 40 from 100\bin\Debug\Last Army.pdb
+C:\Users\valko\Desktop\LastArmy - 40 from 100\obj\Debug\Last Army.csprojResolveAssemblyReference.cache
+C:\Users\valko\Desktop\LastArmy - 40 from 100\obj\Debug\Last Army.exe
+C:\Users\valko\Desktop\LastArmy - 40 from 100\obj\Debug\Last Army.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army 2 - 20 August 2017 During Exam\bin\Debug\Last Army.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army 2 - 20 August 2017 During Exam\bin\Debug\Last Army.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army 2 - 20 August 2017 During Exam\bin\Debug\Last Army.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army 2 - 20 August 2017 During Exam\obj\Debug\Last Army.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army 2 - 20 August 2017 During Exam\obj\Debug\Last Army.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - Last Army 2 - 20 August 2017 During Exam\obj\Debug\Last Army.pdb

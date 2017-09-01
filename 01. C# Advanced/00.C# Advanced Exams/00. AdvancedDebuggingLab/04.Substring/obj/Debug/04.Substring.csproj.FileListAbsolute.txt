@@ -1,0 +1,11 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedDebuggingLab\04.Substring\bin\Debug\04.Substring.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedDebuggingLab\04.Substring\bin\Debug\04.Substring.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedDebuggingLab\04.Substring\bin\Debug\04.Substring.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedDebuggingLab\04.Substring\obj\Debug\04.Substring.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedDebuggingLab\04.Substring\obj\Debug\04.Substring.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\04.Substring\bin\Debug\04.Substring.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\04.Substring\bin\Debug\04.Substring.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\04.Substring\bin\Debug\04.Substring.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\04.Substring\obj\Debug\04.Substring.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\04.Substring\obj\Debug\04.Substring.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\04.Substring\obj\Debug\04.Substring.pdb

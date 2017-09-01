@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\06.RegularExpressionsExercises\09.QueryMess\bin\Debug\09.QueryMess.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\06.RegularExpressionsExercises\09.QueryMess\bin\Debug\09.QueryMess.exe
+c:\users\valko\documents\visual studio 2017\Projects\06.RegularExpressionsExercises\09.QueryMess\bin\Debug\09.QueryMess.pdb
+c:\users\valko\documents\visual studio 2017\Projects\06.RegularExpressionsExercises\09.QueryMess\obj\Debug\09.QueryMess.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\06.RegularExpressionsExercises\09.QueryMess\obj\Debug\09.QueryMess.exe
+c:\users\valko\documents\visual studio 2017\Projects\06.RegularExpressionsExercises\09.QueryMess\obj\Debug\09.QueryMess.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\09.QueryMess\bin\Debug\09.QueryMess.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\09.QueryMess\bin\Debug\09.QueryMess.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\09.QueryMess\bin\Debug\09.QueryMess.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\09.QueryMess\obj\Debug\09.QueryMess.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\09.QueryMess\obj\Debug\09.QueryMess.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\09.QueryMess\obj\Debug\09.QueryMess.pdb

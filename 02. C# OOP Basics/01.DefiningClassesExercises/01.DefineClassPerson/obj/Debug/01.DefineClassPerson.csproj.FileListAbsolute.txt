@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\01.DefiningClassesExercises\01.DefineClassPerson\bin\Debug\01.DefineClassPerson.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\01.DefiningClassesExercises\01.DefineClassPerson\bin\Debug\01.DefineClassPerson.exe
+c:\users\valko\documents\visual studio 2017\Projects\01.DefiningClassesExercises\01.DefineClassPerson\bin\Debug\01.DefineClassPerson.pdb
+c:\users\valko\documents\visual studio 2017\Projects\01.DefiningClassesExercises\01.DefineClassPerson\obj\Debug\01.DefineClassPerson.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\01.DefiningClassesExercises\01.DefineClassPerson\obj\Debug\01.DefineClassPerson.exe
+c:\users\valko\documents\visual studio 2017\Projects\01.DefiningClassesExercises\01.DefineClassPerson\obj\Debug\01.DefineClassPerson.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\01.DefineClassPerson\bin\Debug\01.DefineClassPerson.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\01.DefineClassPerson\bin\Debug\01.DefineClassPerson.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\01.DefineClassPerson\bin\Debug\01.DefineClassPerson.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\01.DefineClassPerson\obj\Debug\01.DefineClassPerson.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\01.DefineClassPerson\obj\Debug\01.DefineClassPerson.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\01.DefiningClassesExercises\01.DefineClassPerson\obj\Debug\01.DefineClassPerson.pdb

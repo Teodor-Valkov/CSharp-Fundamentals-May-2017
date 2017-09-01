@@ -1,0 +1,11 @@
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\03.Iterator\bin\Debug\03.Iterator.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\03.Iterator\bin\Debug\03.Iterator.exe
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\03.Iterator\bin\Debug\03.Iterator.pdb
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\03.Iterator\obj\Debug\03.Iterator.exe
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\03.Iterator\obj\Debug\03.Iterator.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\03.Iterator\bin\Debug\03.Iterator.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\03.Iterator\bin\Debug\03.Iterator.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\03.Iterator\bin\Debug\03.Iterator.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\03.Iterator\obj\Debug\03.Iterator.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\03.Iterator\obj\Debug\03.Iterator.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\03.Iterator\obj\Debug\03.Iterator.csprojResolveAssemblyReference.cache

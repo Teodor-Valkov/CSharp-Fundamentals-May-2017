@@ -1,0 +1,11 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\08.LINQExercises\13.OfficeStuff\bin\Debug\13.OfficeStuff.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\08.LINQExercises\13.OfficeStuff\bin\Debug\13.OfficeStuff.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\08.LINQExercises\13.OfficeStuff\bin\Debug\13.OfficeStuff.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\08.LINQExercises\13.OfficeStuff\obj\Debug\13.OfficeStuff.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\08.LINQExercises\13.OfficeStuff\obj\Debug\13.OfficeStuff.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\13.OfficeStuff\bin\Debug\13.OfficeStuff.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\13.OfficeStuff\bin\Debug\13.OfficeStuff.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\13.OfficeStuff\bin\Debug\13.OfficeStuff.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\13.OfficeStuff\obj\Debug\13.OfficeStuff.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\13.OfficeStuff\obj\Debug\13.OfficeStuff.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\13.OfficeStuff\obj\Debug\13.OfficeStuff.pdb

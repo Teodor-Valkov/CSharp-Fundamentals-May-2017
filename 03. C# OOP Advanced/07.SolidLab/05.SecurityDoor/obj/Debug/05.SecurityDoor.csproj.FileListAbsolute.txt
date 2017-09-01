@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\05.SecurityDoor\bin\Debug\05.SecurityDoor.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\05.SecurityDoor\bin\Debug\05.SecurityDoor.exe
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\05.SecurityDoor\bin\Debug\05.SecurityDoor.pdb
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\05.SecurityDoor\obj\Debug\05.SecurityDoor.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\05.SecurityDoor\obj\Debug\05.SecurityDoor.exe
+c:\users\valko\documents\visual studio 2017\Projects\07.SolidLab\05.SecurityDoor\obj\Debug\05.SecurityDoor.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\05.SecurityDoor\bin\Debug\05.SecurityDoor.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\05.SecurityDoor\bin\Debug\05.SecurityDoor.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\05.SecurityDoor\bin\Debug\05.SecurityDoor.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\05.SecurityDoor\obj\Debug\05.SecurityDoor.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\05.SecurityDoor\obj\Debug\05.SecurityDoor.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\07.SolidLab\05.SecurityDoor\obj\Debug\05.SecurityDoor.pdb

@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedDebuggingLab\03.ArrayTest\bin\Debug\03.ArrayTest.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedDebuggingLab\03.ArrayTest\bin\Debug\03.ArrayTest.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedDebuggingLab\03.ArrayTest\bin\Debug\03.ArrayTest.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedDebuggingLab\03.ArrayTest\obj\Debug\03.ArrayTest.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedDebuggingLab\03.ArrayTest\obj\Debug\03.ArrayTest.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedDebuggingLab\03.ArrayTest\obj\Debug\03.ArrayTest.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\03.ArrayTest\bin\Debug\03.ArrayTest.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\03.ArrayTest\bin\Debug\03.ArrayTest.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\03.ArrayTest\bin\Debug\03.ArrayTest.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\03.ArrayTest\obj\Debug\03.ArrayTest.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\03.ArrayTest\obj\Debug\03.ArrayTest.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedDebuggingLab\03.ArrayTest\obj\Debug\03.ArrayTest.pdb

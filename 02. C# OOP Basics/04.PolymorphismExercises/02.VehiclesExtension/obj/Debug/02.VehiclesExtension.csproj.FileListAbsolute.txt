@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\04.PolymorphismExercises\02.VehiclesExtension\bin\Debug\02.VehiclesExtension.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\04.PolymorphismExercises\02.VehiclesExtension\bin\Debug\02.VehiclesExtension.exe
+c:\users\valko\documents\visual studio 2017\Projects\04.PolymorphismExercises\02.VehiclesExtension\bin\Debug\02.VehiclesExtension.pdb
+c:\users\valko\documents\visual studio 2017\Projects\04.PolymorphismExercises\02.VehiclesExtension\obj\Debug\02.VehiclesExtension.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\04.PolymorphismExercises\02.VehiclesExtension\obj\Debug\02.VehiclesExtension.exe
+c:\users\valko\documents\visual studio 2017\Projects\04.PolymorphismExercises\02.VehiclesExtension\obj\Debug\02.VehiclesExtension.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\04.PolymorphismExercises\02.VehiclesExtension\bin\Debug\02.VehiclesExtension.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\04.PolymorphismExercises\02.VehiclesExtension\bin\Debug\02.VehiclesExtension.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\04.PolymorphismExercises\02.VehiclesExtension\bin\Debug\02.VehiclesExtension.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\04.PolymorphismExercises\02.VehiclesExtension\obj\Debug\02.VehiclesExtension.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\04.PolymorphismExercises\02.VehiclesExtension\obj\Debug\02.VehiclesExtension.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\04.PolymorphismExercises\02.VehiclesExtension\obj\Debug\02.VehiclesExtension.pdb

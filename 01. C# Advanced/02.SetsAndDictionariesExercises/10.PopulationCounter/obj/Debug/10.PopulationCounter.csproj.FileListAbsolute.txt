@@ -1,0 +1,5 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\10.PopulationCounter\bin\Debug\10.PopulationCounter.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\10.PopulationCounter\bin\Debug\10.PopulationCounter.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\10.PopulationCounter\bin\Debug\10.PopulationCounter.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\10.PopulationCounter\obj\Debug\10.PopulationCounter.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\10.PopulationCounter\obj\Debug\10.PopulationCounter.pdb

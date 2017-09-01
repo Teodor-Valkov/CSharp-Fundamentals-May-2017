@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\17.BiggestTableRow\bin\Debug\17.BiggestTableRow.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\17.BiggestTableRow\bin\Debug\17.BiggestTableRow.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\17.BiggestTableRow\bin\Debug\17.BiggestTableRow.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\17.BiggestTableRow\obj\Debug\17.BiggestTableRow.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\17.BiggestTableRow\obj\Debug\17.BiggestTableRow.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\17.BiggestTableRow\obj\Debug\17.BiggestTableRow.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\17.BiggestTableRow\bin\Debug\17.BiggestTableRow.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\17.BiggestTableRow\bin\Debug\17.BiggestTableRow.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\17.BiggestTableRow\bin\Debug\17.BiggestTableRow.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\17.BiggestTableRow\obj\Debug\17.BiggestTableRow.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\17.BiggestTableRow\obj\Debug\17.BiggestTableRow.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\17.BiggestTableRow\obj\Debug\17.BiggestTableRow.pdb

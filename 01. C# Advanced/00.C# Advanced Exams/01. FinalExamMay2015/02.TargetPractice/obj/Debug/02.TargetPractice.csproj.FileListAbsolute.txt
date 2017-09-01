@@ -1,0 +1,7 @@
+c:\users\ac milan\documents\visual studio 2012\Projects\FinalExamMay2015\02.TargetPractice\bin\Debug\02.TargetPractice.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\01. FinalExamMay2015\02.TargetPractice\bin\Debug\02.TargetPractice.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\01. FinalExamMay2015\02.TargetPractice\bin\Debug\02.TargetPractice.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\01. FinalExamMay2015\02.TargetPractice\bin\Debug\02.TargetPractice.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\01. FinalExamMay2015\02.TargetPractice\obj\Debug\02.TargetPractice.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\01. FinalExamMay2015\02.TargetPractice\obj\Debug\02.TargetPractice.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\01. FinalExamMay2015\02.TargetPractice\obj\Debug\02.TargetPractice.pdb

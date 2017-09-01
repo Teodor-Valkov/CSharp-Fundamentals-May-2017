@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\16.Parachute\bin\Debug\16.Parachute.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\16.Parachute\bin\Debug\16.Parachute.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\16.Parachute\bin\Debug\16.Parachute.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\16.Parachute\obj\Debug\16.Parachute.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\16.Parachute\obj\Debug\16.Parachute.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\16.Parachute\obj\Debug\16.Parachute.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\16.Parachute\bin\Debug\16.Parachute.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\16.Parachute\bin\Debug\16.Parachute.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\16.Parachute\bin\Debug\16.Parachute.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\16.Parachute\obj\Debug\16.Parachute.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\16.Parachute\obj\Debug\16.Parachute.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\16.Parachute\obj\Debug\16.Parachute.pdb

@@ -1,0 +1,13 @@
+c:\users\valko\documents\visual studio 2015\Projects\SampleExamJune2016\02.JedyGalaxy2\bin\Debug\02.JedyGalaxy2.exe.config
+C:\Users\valko\Documents\Visual Studio 2015\Projects\3. C# Advanced Exercises and Exams\SampleExamJune2016\02.JedyGalaxy2\bin\Debug\02.JedyGalaxy2.exe.config
+C:\Users\valko\Documents\Visual Studio 2015\Projects\3. C# Advanced Exercises and Exams\SampleExamJune2016\02.JedyGalaxy2\bin\Debug\02.JedyGalaxy2.exe
+C:\Users\valko\Documents\Visual Studio 2015\Projects\3. C# Advanced Exercises and Exams\SampleExamJune2016\02.JedyGalaxy2\bin\Debug\02.JedyGalaxy2.pdb
+C:\Users\valko\Documents\Visual Studio 2015\Projects\3. C# Advanced Exercises and Exams\SampleExamJune2016\02.JedyGalaxy2\obj\Debug\02.JedyGalaxy2.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2015\Projects\3. C# Advanced Exercises and Exams\SampleExamJune2016\02.JedyGalaxy2\obj\Debug\02.JedyGalaxy2.exe
+C:\Users\valko\Documents\Visual Studio 2015\Projects\3. C# Advanced Exercises and Exams\SampleExamJune2016\02.JedyGalaxy2\obj\Debug\02.JedyGalaxy2.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\06. SampleExamJune2016\02.JedyGalaxy2\bin\Debug\02.JedyGalaxy2.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\06. SampleExamJune2016\02.JedyGalaxy2\bin\Debug\02.JedyGalaxy2.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\06. SampleExamJune2016\02.JedyGalaxy2\bin\Debug\02.JedyGalaxy2.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\06. SampleExamJune2016\02.JedyGalaxy2\obj\Debug\02.JedyGalaxy2.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\06. SampleExamJune2016\02.JedyGalaxy2\obj\Debug\02.JedyGalaxy2.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\06. SampleExamJune2016\02.JedyGalaxy2\obj\Debug\02.JedyGalaxy2.pdb

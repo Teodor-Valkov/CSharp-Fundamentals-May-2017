@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\03.SquaresInMatrix\bin\Debug\03.SquaresInMatrix.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\03.SquaresInMatrix\bin\Debug\03.SquaresInMatrix.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\03.SquaresInMatrix\bin\Debug\03.SquaresInMatrix.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\03.SquaresInMatrix\obj\Debug\03.SquaresInMatrix.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\03.SquaresInMatrix\obj\Debug\03.SquaresInMatrix.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\03.SquaresInMatrix\obj\Debug\03.SquaresInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\03.SquaresInMatrix\bin\Debug\03.SquaresInMatrix.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\03.SquaresInMatrix\bin\Debug\03.SquaresInMatrix.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\03.SquaresInMatrix\bin\Debug\03.SquaresInMatrix.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\03.SquaresInMatrix\obj\Debug\03.SquaresInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\03.SquaresInMatrix\obj\Debug\03.SquaresInMatrix.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\03.SquaresInMatrix\obj\Debug\03.SquaresInMatrix.pdb

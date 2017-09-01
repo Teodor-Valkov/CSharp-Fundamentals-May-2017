@@ -1,0 +1,12 @@
+C:\Users\valko\documents\visual studio 2017\Projects\05.ReflectionLab\04.Collector\bin\Debug\04.Collector.exe.config
+C:\Users\valko\documents\visual studio 2017\Projects\05.ReflectionLab\04.Collector\bin\Debug\04.Collector.exe
+C:\Users\valko\documents\visual studio 2017\Projects\05.ReflectionLab\04.Collector\bin\Debug\04.Collector.pdb
+C:\Users\valko\documents\visual studio 2017\Projects\05.ReflectionLab\04.Collector\obj\Debug\04.Collector.exe
+C:\Users\valko\documents\visual studio 2017\Projects\05.ReflectionLab\04.Collector\obj\Debug\04.Collector.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\05.ReflectionLab\04.Collector\obj\Debug\04.Collector.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionLab\04.Collector\bin\Debug\04.Collector.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionLab\04.Collector\bin\Debug\04.Collector.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionLab\04.Collector\bin\Debug\04.Collector.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionLab\04.Collector\obj\Debug\04.Collector.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionLab\04.Collector\obj\Debug\04.Collector.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\05.ReflectionLab\04.Collector\obj\Debug\04.Collector.pdb

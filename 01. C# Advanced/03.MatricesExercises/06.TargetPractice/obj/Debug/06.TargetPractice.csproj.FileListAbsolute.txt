@@ -1,0 +1,11 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\06.TargetPractice\bin\Debug\06.TargetPractice.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\06.TargetPractice\bin\Debug\06.TargetPractice.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\06.TargetPractice\bin\Debug\06.TargetPractice.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\06.TargetPractice\obj\Debug\06.TargetPractice.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\06.TargetPractice\obj\Debug\06.TargetPractice.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\06.TargetPractice\bin\Debug\06.TargetPractice.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\06.TargetPractice\bin\Debug\06.TargetPractice.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\06.TargetPractice\bin\Debug\06.TargetPractice.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\06.TargetPractice\obj\Debug\06.TargetPractice.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\06.TargetPractice\obj\Debug\06.TargetPractice.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\06.TargetPractice\obj\Debug\06.TargetPractice.pdb

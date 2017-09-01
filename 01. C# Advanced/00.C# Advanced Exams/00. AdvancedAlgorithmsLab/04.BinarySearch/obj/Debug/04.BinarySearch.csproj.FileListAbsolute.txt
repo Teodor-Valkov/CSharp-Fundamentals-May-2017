@@ -1,0 +1,11 @@
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedAlgorithmsLab\04.BinarySearch\bin\Debug\04.BinarySearch.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedAlgorithmsLab\04.BinarySearch\bin\Debug\04.BinarySearch.exe
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedAlgorithmsLab\04.BinarySearch\bin\Debug\04.BinarySearch.pdb
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedAlgorithmsLab\04.BinarySearch\obj\Debug\04.BinarySearch.exe
+c:\users\valko\documents\visual studio 2017\Projects\AdvancedAlgorithmsLab\04.BinarySearch\obj\Debug\04.BinarySearch.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedAlgorithmsLab\04.BinarySearch\bin\Debug\04.BinarySearch.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedAlgorithmsLab\04.BinarySearch\bin\Debug\04.BinarySearch.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedAlgorithmsLab\04.BinarySearch\bin\Debug\04.BinarySearch.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedAlgorithmsLab\04.BinarySearch\obj\Debug\04.BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedAlgorithmsLab\04.BinarySearch\obj\Debug\04.BinarySearch.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\00. AdvancedAlgorithmsLab\04.BinarySearch\obj\Debug\04.BinarySearch.pdb

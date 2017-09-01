@@ -1,0 +1,11 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\04.MaximalSum\bin\Debug\04.MaximalSum.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\04.MaximalSum\bin\Debug\04.MaximalSum.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\04.MaximalSum\bin\Debug\04.MaximalSum.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\04.MaximalSum\obj\Debug\04.MaximalSum.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\04.MaximalSum\obj\Debug\04.MaximalSum.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\04.MaximalSum\bin\Debug\04.MaximalSum.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\04.MaximalSum\bin\Debug\04.MaximalSum.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\04.MaximalSum\bin\Debug\04.MaximalSum.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\04.MaximalSum\obj\Debug\04.MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\04.MaximalSum\obj\Debug\04.MaximalSum.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\04.MaximalSum\obj\Debug\04.MaximalSum.pdb

@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2015\Projects\01.StacksAndQueuesLab\05.HotPotato\bin\Debug\05.HotPotato.exe.config
+c:\users\valko\documents\visual studio 2015\Projects\01.StacksAndQueuesLab\05.HotPotato\bin\Debug\05.HotPotato.exe
+c:\users\valko\documents\visual studio 2015\Projects\01.StacksAndQueuesLab\05.HotPotato\bin\Debug\05.HotPotato.pdb
+c:\users\valko\documents\visual studio 2015\Projects\01.StacksAndQueuesLab\05.HotPotato\obj\Debug\05.HotPotato.exe
+c:\users\valko\documents\visual studio 2015\Projects\01.StacksAndQueuesLab\05.HotPotato\obj\Debug\05.HotPotato.pdb
+C:\Users\valko\Documents\Visual Studio 2015\Projects\01.StacksAndQueuesLab\05.HotPotato\obj\Debug\05.HotPotato.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesLab\05.HotPotato\bin\Debug\05.HotPotato.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesLab\05.HotPotato\bin\Debug\05.HotPotato.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesLab\05.HotPotato\bin\Debug\05.HotPotato.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesLab\05.HotPotato\obj\Debug\05.HotPotato.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesLab\05.HotPotato\obj\Debug\05.HotPotato.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesLab\05.HotPotato\obj\Debug\05.HotPotato.pdb

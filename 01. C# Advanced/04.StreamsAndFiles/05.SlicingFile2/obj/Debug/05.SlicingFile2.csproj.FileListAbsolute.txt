@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.StreamsAndFiles\05.SlicingFile2\bin\Debug\05.SlicingFile2.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.StreamsAndFiles\05.SlicingFile2\bin\Debug\05.SlicingFile2.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.StreamsAndFiles\05.SlicingFile2\bin\Debug\05.SlicingFile2.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.StreamsAndFiles\05.SlicingFile2\obj\Debug\05.SlicingFile2.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.StreamsAndFiles\05.SlicingFile2\obj\Debug\05.SlicingFile2.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\04.StreamsAndFiles\05.SlicingFile2\obj\Debug\05.SlicingFile2.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\05.SlicingFile2\bin\Debug\05.SlicingFile2.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\05.SlicingFile2\bin\Debug\05.SlicingFile2.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\05.SlicingFile2\bin\Debug\05.SlicingFile2.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\05.SlicingFile2\obj\Debug\05.SlicingFile2.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\05.SlicingFile2\obj\Debug\05.SlicingFile2.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\05.SlicingFile2\obj\Debug\05.SlicingFile2.pdb

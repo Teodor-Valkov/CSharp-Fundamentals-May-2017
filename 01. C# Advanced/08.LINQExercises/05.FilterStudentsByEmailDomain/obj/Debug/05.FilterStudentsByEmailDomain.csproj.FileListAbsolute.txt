@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\05.FilterStudentsByEmailDomain\bin\Debug\05.FilterStudentsByEmailDomain.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\05.FilterStudentsByEmailDomain\bin\Debug\05.FilterStudentsByEmailDomain.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\05.FilterStudentsByEmailDomain\bin\Debug\05.FilterStudentsByEmailDomain.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\05.FilterStudentsByEmailDomain\obj\Debug\05.FilterStudentsByEmailDomain.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\05.FilterStudentsByEmailDomain\obj\Debug\05.FilterStudentsByEmailDomain.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\05.FilterStudentsByEmailDomain\obj\Debug\05.FilterStudentsByEmailDomain.pdb

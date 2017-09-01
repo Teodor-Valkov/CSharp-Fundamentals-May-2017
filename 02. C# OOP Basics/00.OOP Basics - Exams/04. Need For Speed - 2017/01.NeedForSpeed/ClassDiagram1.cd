@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_01.NeedForSpeed.Core.CarManager" Collapsed="true">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAACAAAAAAAAAAAAAAACAAQAAAAAAABAAAA=</HashCode>
+      <FileName>Core\CarManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Core.Engine" Collapsed="true">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Core\Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Core.Commands.CheckCommand" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Commands\CheckCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Core.Commands.Command" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAIAAAACAAQAAAAAAAIAAAACAAQAAAAEAAgAAAA=</HashCode>
+      <FileName>Core\Commands\Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Core.Commands.OpenCommand" Collapsed="true">
+    <Position X="14.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Commands\OpenCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Core.Commands.ParkCommand" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Commands\ParkCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Core.Commands.ParticipateCommand" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Commands\ParticipateCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Core.Commands.RegisterCommand" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Commands\RegisterCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Core.Commands.StartCommand" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Commands\StartCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Core.Commands.TuneCommand" Collapsed="true">
+    <Position X="17" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Commands\TuneCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Core.Commands.UnparkCommand" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Commands\UnparkCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Data.Repository" Collapsed="true">
+    <Position X="23" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAACBCAAQgACAAIACAAAQAgAAAAAAAAAAAAgABA=</HashCode>
+      <FileName>Data\Repository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Factories.CarFactory" Collapsed="true">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Factories\CarFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Factories.RaceFactory" Collapsed="true">
+    <Position X="21.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\RaceFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Models.Car" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAACACAAAgAAAEIAAAgAAAAACAAAQAkAgGABAJEAg=</HashCode>
+      <FileName>Models\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Models.CasualRace" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\CasualRace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Models.CircuitRace" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Models\CircuitRace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Models.DragRace" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\DragRace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Models.DriftRace" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\DriftRace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Models.Garage" Collapsed="true">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAABAQAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Models\Garage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Models.PerformanceCar" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAUAAAAAAEIABAgAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\PerformanceCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Models.Race" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAADAAAAAAAAEAEAAAABgAAAAIAAAACBAAAAAAAA=</HashCode>
+      <FileName>Models\Race.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Models.ShowCar" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAEAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ShowCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.Models.TimeLimitRace" Collapsed="true">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAgAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Models\TimeLimitRace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.NeedForSpeed.StartUp" Collapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>StartUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

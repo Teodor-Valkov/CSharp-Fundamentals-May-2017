@@ -1,0 +1,5 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\10.SimpleTextEditor\bin\Debug\10.SimpleTextEditor.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\10.SimpleTextEditor\bin\Debug\10.SimpleTextEditor.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\10.SimpleTextEditor\bin\Debug\10.SimpleTextEditor.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\10.SimpleTextEditor\obj\Debug\10.SimpleTextEditor.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\10.SimpleTextEditor\obj\Debug\10.SimpleTextEditor.pdb

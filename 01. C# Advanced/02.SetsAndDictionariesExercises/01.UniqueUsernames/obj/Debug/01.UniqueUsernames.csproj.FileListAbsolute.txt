@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\01.UniqueUsernames\bin\Debug\01.UniqueUsernames.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\01.UniqueUsernames\bin\Debug\01.UniqueUsernames.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\01.UniqueUsernames\bin\Debug\01.UniqueUsernames.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\01.UniqueUsernames\obj\Debug\01.UniqueUsernames.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\01.UniqueUsernames\obj\Debug\01.UniqueUsernames.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\01.UniqueUsernames\obj\Debug\01.UniqueUsernames.pdb

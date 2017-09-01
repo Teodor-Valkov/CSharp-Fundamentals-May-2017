@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\03.IteratorsAndComparatorsLab\01.Library\bin\Debug\01.Library.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\03.IteratorsAndComparatorsLab\01.Library\bin\Debug\01.Library.exe
+c:\users\valko\documents\visual studio 2017\Projects\03.IteratorsAndComparatorsLab\01.Library\bin\Debug\01.Library.pdb
+c:\users\valko\documents\visual studio 2017\Projects\03.IteratorsAndComparatorsLab\01.Library\obj\Debug\01.Library.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\03.IteratorsAndComparatorsLab\01.Library\obj\Debug\01.Library.exe
+c:\users\valko\documents\visual studio 2017\Projects\03.IteratorsAndComparatorsLab\01.Library\obj\Debug\01.Library.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsLab\01.Library\bin\Debug\01.Library.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsLab\01.Library\bin\Debug\01.Library.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsLab\01.Library\bin\Debug\01.Library.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsLab\01.Library\obj\Debug\01.Library.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsLab\01.Library\obj\Debug\01.Library.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\03.IteratorsAndComparatorsLab\01.Library\obj\Debug\01.Library.pdb

@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\12.StringMatrixRotation\bin\Debug\12.StringMatrixRotation.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\12.StringMatrixRotation\bin\Debug\12.StringMatrixRotation.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\12.StringMatrixRotation\bin\Debug\12.StringMatrixRotation.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\12.StringMatrixRotation\obj\Debug\12.StringMatrixRotation.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\12.StringMatrixRotation\obj\Debug\12.StringMatrixRotation.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03.MatricesExercises\12.StringMatrixRotation\obj\Debug\12.StringMatrixRotation.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\12.StringMatrixRotation\bin\Debug\12.StringMatrixRotation.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\12.StringMatrixRotation\bin\Debug\12.StringMatrixRotation.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\12.StringMatrixRotation\bin\Debug\12.StringMatrixRotation.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\12.StringMatrixRotation\obj\Debug\12.StringMatrixRotation.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\12.StringMatrixRotation\obj\Debug\12.StringMatrixRotation.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesExercises\12.StringMatrixRotation\obj\Debug\12.StringMatrixRotation.pdb

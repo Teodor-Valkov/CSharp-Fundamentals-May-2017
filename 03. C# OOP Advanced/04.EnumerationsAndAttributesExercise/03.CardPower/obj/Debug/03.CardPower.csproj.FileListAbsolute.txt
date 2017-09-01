@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\04.EnumerationsAndAttributesExercise\03.CardPower\bin\Debug\03.CardPower.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\04.EnumerationsAndAttributesExercise\03.CardPower\bin\Debug\03.CardPower.exe
+c:\users\valko\documents\visual studio 2017\Projects\04.EnumerationsAndAttributesExercise\03.CardPower\bin\Debug\03.CardPower.pdb
+c:\users\valko\documents\visual studio 2017\Projects\04.EnumerationsAndAttributesExercise\03.CardPower\obj\Debug\03.CardPower.exe
+c:\users\valko\documents\visual studio 2017\Projects\04.EnumerationsAndAttributesExercise\03.CardPower\obj\Debug\03.CardPower.pdb
+c:\users\valko\documents\visual studio 2017\Projects\04.EnumerationsAndAttributesExercise\03.CardPower\obj\Debug\03.CardPower.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationsAndAttributesExercise\03.CardPower\bin\Debug\03.CardPower.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationsAndAttributesExercise\03.CardPower\bin\Debug\03.CardPower.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationsAndAttributesExercise\03.CardPower\bin\Debug\03.CardPower.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationsAndAttributesExercise\03.CardPower\obj\Debug\03.CardPower.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationsAndAttributesExercise\03.CardPower\obj\Debug\03.CardPower.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\04.EnumerationsAndAttributesExercise\03.CardPower\obj\Debug\03.CardPower.pdb

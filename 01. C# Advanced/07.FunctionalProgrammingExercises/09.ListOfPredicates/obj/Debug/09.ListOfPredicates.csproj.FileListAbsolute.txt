@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\07.FunctionalProgrammingExercises\09.ListOfPredicates\bin\Debug\09.ListOfPredicates.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\07.FunctionalProgrammingExercises\09.ListOfPredicates\bin\Debug\09.ListOfPredicates.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\07.FunctionalProgrammingExercises\09.ListOfPredicates\bin\Debug\09.ListOfPredicates.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\07.FunctionalProgrammingExercises\09.ListOfPredicates\obj\Debug\09.ListOfPredicates.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\07.FunctionalProgrammingExercises\09.ListOfPredicates\obj\Debug\09.ListOfPredicates.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\07.FunctionalProgrammingExercises\09.ListOfPredicates\obj\Debug\09.ListOfPredicates.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\09.ListOfPredicates\bin\Debug\09.ListOfPredicates.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\09.ListOfPredicates\bin\Debug\09.ListOfPredicates.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\09.ListOfPredicates\bin\Debug\09.ListOfPredicates.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\09.ListOfPredicates\obj\Debug\09.ListOfPredicates.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\09.ListOfPredicates\obj\Debug\09.ListOfPredicates.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\09.ListOfPredicates\obj\Debug\09.ListOfPredicates.pdb

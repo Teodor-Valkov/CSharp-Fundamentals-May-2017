@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.InterfacesAndAbstracionExercises\06.BirthdayCelebration\bin\Debug\06.BirthdayCelebration.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.InterfacesAndAbstracionExercises\06.BirthdayCelebration\bin\Debug\06.BirthdayCelebration.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.InterfacesAndAbstracionExercises\06.BirthdayCelebration\bin\Debug\06.BirthdayCelebration.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.InterfacesAndAbstracionExercises\06.BirthdayCelebration\obj\Debug\06.BirthdayCelebration.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.InterfacesAndAbstracionExercises\06.BirthdayCelebration\obj\Debug\06.BirthdayCelebration.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01.InterfacesAndAbstracionExercises\06.BirthdayCelebration\obj\Debug\06.BirthdayCelebration.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstracionExercises\06.BirthdayCelebration\bin\Debug\06.BirthdayCelebration.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstracionExercises\06.BirthdayCelebration\bin\Debug\06.BirthdayCelebration.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstracionExercises\06.BirthdayCelebration\bin\Debug\06.BirthdayCelebration.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstracionExercises\06.BirthdayCelebration\obj\Debug\06.BirthdayCelebration.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstracionExercises\06.BirthdayCelebration\obj\Debug\06.BirthdayCelebration.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstracionExercises\06.BirthdayCelebration\obj\Debug\06.BirthdayCelebration.pdb

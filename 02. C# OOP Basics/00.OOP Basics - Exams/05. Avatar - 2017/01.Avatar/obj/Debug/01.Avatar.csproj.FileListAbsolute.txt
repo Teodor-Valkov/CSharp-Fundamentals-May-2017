@@ -1,0 +1,18 @@
+c:\users\valko\documents\visual studio 2017\Projects\SampleExam2July2017\01.Avatar\bin\Debug\01.Avatar.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\SampleExam2July2017\01.Avatar\bin\Debug\01.Avatar.exe
+c:\users\valko\documents\visual studio 2017\Projects\SampleExam2July2017\01.Avatar\bin\Debug\01.Avatar.pdb
+c:\users\valko\documents\visual studio 2017\Projects\SampleExam2July2017\01.Avatar\obj\Debug\01.Avatar.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\SampleExam2July2017\01.Avatar\obj\Debug\01.Avatar.exe
+c:\users\valko\documents\visual studio 2017\Projects\SampleExam2July2017\01.Avatar\obj\Debug\01.Avatar.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.OOPExams\05. Avatar - 2017\01.Avatar\bin\Debug\01.Avatar.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.OOPExams\05. Avatar - 2017\01.Avatar\bin\Debug\01.Avatar.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.OOPExams\05. Avatar - 2017\01.Avatar\bin\Debug\01.Avatar.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.OOPExams\05. Avatar - 2017\01.Avatar\obj\Debug\01.Avatar.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.OOPExams\05. Avatar - 2017\01.Avatar\obj\Debug\01.Avatar.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.OOPExams\05. Avatar - 2017\01.Avatar\obj\Debug\01.Avatar.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\00.OOP Basics - Exams\05. Avatar - 2017\01.Avatar\bin\Debug\01.Avatar.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\00.OOP Basics - Exams\05. Avatar - 2017\01.Avatar\bin\Debug\01.Avatar.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\00.OOP Basics - Exams\05. Avatar - 2017\01.Avatar\bin\Debug\01.Avatar.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\00.OOP Basics - Exams\05. Avatar - 2017\01.Avatar\obj\Debug\01.Avatar.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\00.OOP Basics - Exams\05. Avatar - 2017\01.Avatar\obj\Debug\01.Avatar.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02. C# OOP Basics\00.OOP Basics - Exams\05. Avatar - 2017\01.Avatar\obj\Debug\01.Avatar.pdb

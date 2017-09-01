@@ -1,0 +1,10 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\05.ManualStringProcessingExercises\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\05.ManualStringProcessingExercises\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\05.ManualStringProcessingExercises\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\05.ManualStringProcessingExercises\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\05.ManualStringProcessingExercises\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.pdb

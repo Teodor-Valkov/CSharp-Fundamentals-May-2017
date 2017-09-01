@@ -1,0 +1,18 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\C# - Advanced\BashSoft\BashSoft\bin\Debug\BashSoft.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\C# - Advanced\BashSoft\BashSoft\bin\Debug\BashSoft.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\C# - Advanced\BashSoft\BashSoft\bin\Debug\BashSoft.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\C# - Advanced\BashSoft\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\C# - Advanced\BashSoft\BashSoft\obj\Debug\BashSoft.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\C# - Advanced\BashSoft\BashSoft\obj\Debug\BashSoft.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\BashSoft\BashSoft\bin\Debug\BashSoft.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\BashSoft\BashSoft\bin\Debug\BashSoft.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\BashSoft\BashSoft\bin\Debug\BashSoft.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\BashSoft\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\BashSoft\BashSoft\obj\Debug\BashSoft.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\BashSoft\BashSoft\obj\Debug\BashSoft.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\BashSoft\BashSoft\bin\Debug\BashSoft.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\BashSoft\BashSoft\bin\Debug\BashSoft.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\BashSoft\BashSoft\bin\Debug\BashSoft.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\BashSoft\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\BashSoft\BashSoft\obj\Debug\BashSoft.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\BashSoft\BashSoft\obj\Debug\BashSoft.pdb

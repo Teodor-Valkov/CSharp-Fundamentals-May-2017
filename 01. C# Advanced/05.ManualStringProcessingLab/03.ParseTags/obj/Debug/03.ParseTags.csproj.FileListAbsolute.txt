@@ -1,0 +1,11 @@
+c:\users\valko\documents\visual studio 2017\Projects\05.ManualStringProcessingLab\03.ParseTags\bin\Debug\03.ParseTags.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\05.ManualStringProcessingLab\03.ParseTags\bin\Debug\03.ParseTags.exe
+c:\users\valko\documents\visual studio 2017\Projects\05.ManualStringProcessingLab\03.ParseTags\bin\Debug\03.ParseTags.pdb
+c:\users\valko\documents\visual studio 2017\Projects\05.ManualStringProcessingLab\03.ParseTags\obj\Debug\03.ParseTags.exe
+c:\users\valko\documents\visual studio 2017\Projects\05.ManualStringProcessingLab\03.ParseTags\obj\Debug\03.ParseTags.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingLab\03.ParseTags\bin\Debug\03.ParseTags.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingLab\03.ParseTags\bin\Debug\03.ParseTags.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingLab\03.ParseTags\bin\Debug\03.ParseTags.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingLab\03.ParseTags\obj\Debug\03.ParseTags.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingLab\03.ParseTags\obj\Debug\03.ParseTags.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingLab\03.ParseTags\obj\Debug\03.ParseTags.pdb

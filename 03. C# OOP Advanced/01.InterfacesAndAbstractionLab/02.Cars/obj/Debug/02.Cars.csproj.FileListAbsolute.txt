@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\01.InterfacesAndAbstractionLab\02.Cars\bin\Debug\02.Cars.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\01.InterfacesAndAbstractionLab\02.Cars\bin\Debug\02.Cars.exe
+c:\users\valko\documents\visual studio 2017\Projects\01.InterfacesAndAbstractionLab\02.Cars\bin\Debug\02.Cars.pdb
+c:\users\valko\documents\visual studio 2017\Projects\01.InterfacesAndAbstractionLab\02.Cars\obj\Debug\02.Cars.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\01.InterfacesAndAbstractionLab\02.Cars\obj\Debug\02.Cars.exe
+c:\users\valko\documents\visual studio 2017\Projects\01.InterfacesAndAbstractionLab\02.Cars\obj\Debug\02.Cars.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstractionLab\02.Cars\bin\Debug\02.Cars.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstractionLab\02.Cars\bin\Debug\02.Cars.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstractionLab\02.Cars\bin\Debug\02.Cars.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstractionLab\02.Cars\obj\Debug\02.Cars.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstractionLab\02.Cars\obj\Debug\02.Cars.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstractionLab\02.Cars\obj\Debug\02.Cars.pdb

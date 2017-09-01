@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\02.Database\bin\Debug\02.Database.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\02.Database\bin\Debug\02.Database.exe
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\02.Database\bin\Debug\02.Database.pdb
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\02.Database\obj\Debug\02.Database.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\02.Database\obj\Debug\02.Database.exe
+c:\users\valko\documents\visual studio 2017\Projects\06.UnitTestsExercises\02.Database\obj\Debug\02.Database.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\02.Database\bin\Debug\02.Database.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\02.Database\bin\Debug\02.Database.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\02.Database\bin\Debug\02.Database.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\02.Database\obj\Debug\02.Database.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\02.Database\obj\Debug\02.Database.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\02.Database\obj\Debug\02.Database.pdb

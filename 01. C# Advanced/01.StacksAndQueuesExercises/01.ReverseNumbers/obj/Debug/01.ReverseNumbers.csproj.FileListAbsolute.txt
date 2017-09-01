@@ -1,0 +1,12 @@
+c:\users\valko\documents\visual studio 2017\Projects\01.StacksAndQueuesExercises\01.ReverseNumbers\bin\Debug\01.ReverseNumbers.exe.config
+c:\users\valko\documents\visual studio 2017\Projects\01.StacksAndQueuesExercises\01.ReverseNumbers\bin\Debug\01.ReverseNumbers.exe
+c:\users\valko\documents\visual studio 2017\Projects\01.StacksAndQueuesExercises\01.ReverseNumbers\bin\Debug\01.ReverseNumbers.pdb
+c:\users\valko\documents\visual studio 2017\Projects\01.StacksAndQueuesExercises\01.ReverseNumbers\obj\Debug\01.ReverseNumbers.csprojResolveAssemblyReference.cache
+c:\users\valko\documents\visual studio 2017\Projects\01.StacksAndQueuesExercises\01.ReverseNumbers\obj\Debug\01.ReverseNumbers.exe
+c:\users\valko\documents\visual studio 2017\Projects\01.StacksAndQueuesExercises\01.ReverseNumbers\obj\Debug\01.ReverseNumbers.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\01.ReverseNumbers\bin\Debug\01.ReverseNumbers.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\01.ReverseNumbers\bin\Debug\01.ReverseNumbers.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\01.ReverseNumbers\bin\Debug\01.ReverseNumbers.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\01.ReverseNumbers\obj\Debug\01.ReverseNumbers.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\01.ReverseNumbers\obj\Debug\01.ReverseNumbers.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\01.ReverseNumbers\obj\Debug\01.ReverseNumbers.pdb

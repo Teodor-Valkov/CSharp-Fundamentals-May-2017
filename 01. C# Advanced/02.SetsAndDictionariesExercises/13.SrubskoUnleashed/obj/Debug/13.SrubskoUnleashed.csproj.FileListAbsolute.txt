@@ -1,0 +1,5 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\13.SrubskoUnleashed\bin\Debug\13.SrubskoUnleashed.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\13.SrubskoUnleashed\bin\Debug\13.SrubskoUnleashed.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\13.SrubskoUnleashed\bin\Debug\13.SrubskoUnleashed.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\13.SrubskoUnleashed\obj\Debug\13.SrubskoUnleashed.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\13.SrubskoUnleashed\obj\Debug\13.SrubskoUnleashed.pdb

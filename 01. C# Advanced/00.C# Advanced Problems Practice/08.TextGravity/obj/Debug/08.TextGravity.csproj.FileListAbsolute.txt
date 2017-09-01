@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\08.TextGravity\bin\Debug\08.TextGravity.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\08.TextGravity\bin\Debug\08.TextGravity.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\08.TextGravity\bin\Debug\08.TextGravity.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\08.TextGravity\obj\Debug\08.TextGravity.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\08.TextGravity\obj\Debug\08.TextGravity.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\AdvancedExamProblemsPractice\08.TextGravity\obj\Debug\08.TextGravity.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\08.TextGravity\bin\Debug\08.TextGravity.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\08.TextGravity\bin\Debug\08.TextGravity.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\08.TextGravity\bin\Debug\08.TextGravity.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\08.TextGravity\obj\Debug\08.TextGravity.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\08.TextGravity\obj\Debug\08.TextGravity.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\08.TextGravity\obj\Debug\08.TextGravity.pdb

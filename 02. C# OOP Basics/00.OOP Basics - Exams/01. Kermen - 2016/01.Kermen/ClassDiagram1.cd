@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_01.Kermen.Models.Couple" Collapsed="true">
+    <Position X="1.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAgAAAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Couple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.Kermen.Models.OldCouple" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAEAAA=</HashCode>
+      <FileName>Models\OldCouple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.Kermen.Models.Single" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Single.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.Kermen.Models.YoungCouple" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAACAAIAAAAA=</HashCode>
+      <FileName>Models\YoungCouple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.Kermen.Models.YoungCoupleWithChildren" Collapsed="true">
+    <Position X="0.5" Y="4" Width="2" />
+    <InheritanceLine Type="_01.Kermen.Models.YoungCouple" ManuallyRouted="true">
+      <Path>
+        <Point X="1.25" Y="3.441" />
+        <Point X="1.25" Y="4" />
+        <Point X="1.5" Y="4" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAEgAAAAAAAQIAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Models\YoungCoupleWithChildren.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.Kermen.Models.AloneYoung" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAACAAIAAAAA=</HashCode>
+      <FileName>Models\AloneYoung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.Kermen.Models.AloneOld" Collapsed="true">
+    <Position X="6.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Models\AloneOld.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01.Kermen.Models.Household" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAgAAABAAAAIEAAAAAAIAAAAAAAAAgAIAAAAEAA=</HashCode>
+      <FileName>Models\Household.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

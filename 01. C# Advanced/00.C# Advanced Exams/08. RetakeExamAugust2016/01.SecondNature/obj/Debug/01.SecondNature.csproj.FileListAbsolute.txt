@@ -1,0 +1,18 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\RetakeExamAugust2016\01.SecondNature\bin\Debug\01.SecondNature.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\RetakeExamAugust2016\01.SecondNature\bin\Debug\01.SecondNature.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\RetakeExamAugust2016\01.SecondNature\bin\Debug\01.SecondNature.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\RetakeExamAugust2016\01.SecondNature\obj\Debug\01.SecondNature.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\RetakeExamAugust2016\01.SecondNature\obj\Debug\01.SecondNature.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\RetakeExamAugust2016\01.SecondNature\obj\Debug\01.SecondNature.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\08. RetakeExamAugust2016\01.SecondNature\bin\Debug\01.SecondNature.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\08. RetakeExamAugust2016\01.SecondNature\bin\Debug\01.SecondNature.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\08. RetakeExamAugust2016\01.SecondNature\bin\Debug\01.SecondNature.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\08. RetakeExamAugust2016\01.SecondNature\obj\Debug\01.SecondNature.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\08. RetakeExamAugust2016\01.SecondNature\obj\Debug\01.SecondNature.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\00.Exams\08. RetakeExamAugust2016\01.SecondNature\obj\Debug\01.SecondNature.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\08. RetakeExamAugust2016\01.SecondNature\bin\Debug\01.SecondNature.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\08. RetakeExamAugust2016\01.SecondNature\bin\Debug\01.SecondNature.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\08. RetakeExamAugust2016\01.SecondNature\bin\Debug\01.SecondNature.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\08. RetakeExamAugust2016\01.SecondNature\obj\Debug\01.SecondNature.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\08. RetakeExamAugust2016\01.SecondNature\obj\Debug\01.SecondNature.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\08. RetakeExamAugust2016\01.SecondNature\obj\Debug\01.SecondNature.pdb

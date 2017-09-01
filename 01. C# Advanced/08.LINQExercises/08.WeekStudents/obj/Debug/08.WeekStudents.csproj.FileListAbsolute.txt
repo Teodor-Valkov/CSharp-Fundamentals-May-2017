@@ -1,0 +1,5 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\08.WeekStudents\bin\Debug\08.WeekStudents.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\08.WeekStudents\bin\Debug\08.WeekStudents.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\08.WeekStudents\bin\Debug\08.WeekStudents.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\08.WeekStudents\obj\Debug\08.WeekStudents.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\08.WeekStudents\obj\Debug\08.WeekStudents.pdb

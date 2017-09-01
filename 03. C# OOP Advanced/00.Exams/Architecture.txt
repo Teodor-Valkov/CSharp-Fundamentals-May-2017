@@ -1,0 +1,97 @@
+Attributes
+	-> public class ItemAttribute
+	
+Core
+	-> public interface IEngine
+		-> void Run();
+	-> public class Engine : IEngine
+
+	-> public interface ICommandInterpreter
+		-> IExecutable InterpretCommand(string input);
+	-> public class CommandInterpreter : ICommandInterpreter
+
+	-> public interface IHeroManager
+		-> IDictionary<string, IHero> heroes;
+		-> string Hero(string name, string type);
+		-> string Item(string name, string heroName, int strengthBonus, int agilityBonus, int intelligenceBonus, int hitpointsBonus, int damageBonus);
+		-> string Recipe(string name, string heroName, int strengthBonus, int agilityBonus, int intelligenceBonus, int hitpointsBonus, int damageBonus, params string[] requiredItems);
+		-> string Inspect(string name);
+		-> string Quit();	
+	-> public class HeroManager : IHeroManager
+	
+Commands
+	-> public interface IExecutable
+		-> string Execute();
+	
+	-> public abstract class Command :IExecutable	
+		-> public IList<string> Tokens;
+		-> protected IHeroManage HeroManager;
+	
+	-> public class HeroCommand : Command
+	-> public class ItemCommand : Command
+	-> public class RecipeCommand : Command
+	-> public class InspectCommand : Command
+	-> public class QuitCommand : Command
+
+IO
+	-> public interface IInputReader
+		-> string ReadLine();
+	-> public class ConsoleReader : IReader		
+	
+	-> public interface IOutputWriter
+		-> void WriteLine(string output);
+		-> void WriteAllLines();
+	-> public class ConsoleWriter : IWriter
+	
+Models
+	public class Engine : IEngine	
+	public class GameController : IGameController 
+	public class MissionController : IMissionController
+
+	Soldier
+		-> public interface ISoldier
+			-> string Name;
+			-> int Age;
+			-> double Experience;
+			-> double Endurance
+			-> Ammunition warehouse;
+		-> public abstract class Soldier : ISoldier
+		-> public class Ranker : Soldier
+		-> public class Corporal : Soldier
+		-> public class SpecialForce : Soldier
+		
+	Ammunition	
+		-> public interface IAmmunition
+			-> string Name;
+			-> double Weight;
+			-> double WearLevel;
+		-> public abstract class Ammunition : IAmmunition
+			-> WearLevel = Weight * 100;	
+		-> public class Gun : Ammunition
+				-> const Weight = 1.4;
+		-> public class AutomaticMachine  : Ammunition
+				-> const Weight = 6.3;
+		-> public class MachineGun : Ammunition
+				-> const Weight = 10.6;
+		-> public class RPG : Ammunition
+				-> const Weight = 17.1;
+		-> public class Helmet : Ammunition
+				-> const Weight = 2.3;
+		-> public class NightVision : Ammunition
+				-> const Weight = 0.8;
+		-> public class Knife : Ammunition
+				-> const Weight = 0.4;
+		
+	Mission 
+		-> public interface IMission
+			-> double enduranceRequired;
+			-> double scoreToComplete;
+		-> public class Mission : IMission
+		-> public class Easy : Mission
+				-> const enduranceRequired = 20
+		-> public class Medium : Mission
+				-> const enduranceRequired = 50;
+		-> public class Hard : Mission
+				-> const enduranceRequired = 80
+
+	

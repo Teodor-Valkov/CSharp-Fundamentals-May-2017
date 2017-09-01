@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\10.Exams\Exam - H.E.L.L. - 16 August 2017\Hell\bin\Debug\Hell.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\10.Exams\Exam - H.E.L.L. - 16 August 2017\Hell\bin\Debug\Hell.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\10.Exams\Exam - H.E.L.L. - 16 August 2017\Hell\bin\Debug\Hell.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\10.Exams\Exam - H.E.L.L. - 16 August 2017\Hell\obj\Debug\Hell.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\10.Exams\Exam - H.E.L.L. - 16 August 2017\Hell\obj\Debug\Hell.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\10.Exams\Exam - H.E.L.L. - 16 August 2017\Hell\obj\Debug\Hell.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - H.E.L.L. - 16 August 2017\Hell\bin\Debug\Hell.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - H.E.L.L. - 16 August 2017\Hell\bin\Debug\Hell.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - H.E.L.L. - 16 August 2017\Hell\bin\Debug\Hell.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - H.E.L.L. - 16 August 2017\Hell\obj\Debug\Hell.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - H.E.L.L. - 16 August 2017\Hell\obj\Debug\Hell.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\00.Exams\Exam - H.E.L.L. - 16 August 2017\Hell\obj\Debug\Hell.pdb

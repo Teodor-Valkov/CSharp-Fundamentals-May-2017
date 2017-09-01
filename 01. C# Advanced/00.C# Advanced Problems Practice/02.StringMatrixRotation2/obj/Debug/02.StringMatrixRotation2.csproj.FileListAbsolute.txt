@@ -1,0 +1,6 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\02.StringMatrixRotation2\bin\Debug\02.StringMatrixRotation2.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\02.StringMatrixRotation2\bin\Debug\02.StringMatrixRotation2.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\02.StringMatrixRotation2\bin\Debug\02.StringMatrixRotation2.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\02.StringMatrixRotation2\obj\Debug\02.StringMatrixRotation2.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\02.StringMatrixRotation2\obj\Debug\02.StringMatrixRotation2.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\02.StringMatrixRotation2\obj\Debug\02.StringMatrixRotation2.pdb

@@ -1,0 +1,12 @@
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.GenericsExercises\11.Threeuple\bin\Debug\11.Threeuple.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.GenericsExercises\11.Threeuple\bin\Debug\11.Threeuple.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.GenericsExercises\11.Threeuple\bin\Debug\11.Threeuple.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.GenericsExercises\11.Threeuple\obj\Debug\11.Threeuple.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.GenericsExercises\11.Threeuple\obj\Debug\11.Threeuple.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\02.GenericsExercises\11.Threeuple\obj\Debug\11.Threeuple.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsExercises\11.Threeuple\bin\Debug\11.Threeuple.exe.config
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsExercises\11.Threeuple\bin\Debug\11.Threeuple.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsExercises\11.Threeuple\bin\Debug\11.Threeuple.pdb
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsExercises\11.Threeuple\obj\Debug\11.Threeuple.csprojResolveAssemblyReference.cache
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsExercises\11.Threeuple\obj\Debug\11.Threeuple.exe
+C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\02.GenericsExercises\11.Threeuple\obj\Debug\11.Threeuple.pdb
