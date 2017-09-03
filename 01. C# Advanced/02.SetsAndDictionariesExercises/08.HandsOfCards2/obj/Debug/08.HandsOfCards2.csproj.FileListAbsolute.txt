@@ -1,5 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\08.HandsOfCards2\bin\Debug\08.HandsOfCards2.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\08.HandsOfCards2\bin\Debug\08.HandsOfCards2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\08.HandsOfCards2\bin\Debug\08.HandsOfCards2.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\08.HandsOfCards2\obj\Debug\08.HandsOfCards2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\08.HandsOfCards2\obj\Debug\08.HandsOfCards2.pdb

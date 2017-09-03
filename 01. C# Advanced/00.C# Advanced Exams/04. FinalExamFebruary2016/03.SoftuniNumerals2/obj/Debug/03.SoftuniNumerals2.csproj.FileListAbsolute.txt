@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\04. FinalExamFebruary2016\03.SoftuniNumerals2\bin\Debug\03.SoftuniNumerals2.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\04. FinalExamFebruary2016\03.SoftuniNumerals2\bin\Debug\03.SoftuniNumerals2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\04. FinalExamFebruary2016\03.SoftuniNumerals2\bin\Debug\03.SoftuniNumerals2.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\04. FinalExamFebruary2016\03.SoftuniNumerals2\obj\Debug\03.SoftuniNumerals2.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\04. FinalExamFebruary2016\03.SoftuniNumerals2\obj\Debug\03.SoftuniNumerals2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\04. FinalExamFebruary2016\03.SoftuniNumerals2\obj\Debug\03.SoftuniNumerals2.pdb

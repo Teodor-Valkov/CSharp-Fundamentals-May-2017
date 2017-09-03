@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\01.ActionPrint\bin\Debug\01.ActionPrint.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\01.ActionPrint\bin\Debug\01.ActionPrint.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\01.ActionPrint\bin\Debug\01.ActionPrint.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\01.ActionPrint\obj\Debug\01.ActionPrint.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\01.ActionPrint\obj\Debug\01.ActionPrint.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\01.ActionPrint\obj\Debug\01.ActionPrint.pdb

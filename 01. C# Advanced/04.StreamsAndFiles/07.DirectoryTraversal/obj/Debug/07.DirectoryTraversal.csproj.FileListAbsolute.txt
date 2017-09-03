@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.pdb

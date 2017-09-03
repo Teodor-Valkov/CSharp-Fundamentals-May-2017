@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\05.AppliedArithmetics2\bin\Debug\05.AppliedArithmetics2.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\05.AppliedArithmetics2\bin\Debug\05.AppliedArithmetics2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\05.AppliedArithmetics2\bin\Debug\05.AppliedArithmetics2.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\05.AppliedArithmetics2\obj\Debug\05.AppliedArithmetics2.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\05.AppliedArithmetics2\obj\Debug\05.AppliedArithmetics2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\05.AppliedArithmetics2\obj\Debug\05.AppliedArithmetics2.pdb

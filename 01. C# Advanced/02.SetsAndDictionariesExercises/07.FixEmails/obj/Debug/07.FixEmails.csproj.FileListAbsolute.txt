@@ -1,5 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\07.FixEmails\bin\Debug\07.FixEmails.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\07.FixEmails\bin\Debug\07.FixEmails.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\07.FixEmails\bin\Debug\07.FixEmails.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\07.FixEmails\obj\Debug\07.FixEmails.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\07.FixEmails\obj\Debug\07.FixEmails.pdb

@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstracionExercises\09.CollectionHierarchy\bin\Debug\09.CollectionHierarchy.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstracionExercises\09.CollectionHierarchy\bin\Debug\09.CollectionHierarchy.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstracionExercises\09.CollectionHierarchy\bin\Debug\09.CollectionHierarchy.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstracionExercises\09.CollectionHierarchy\obj\Debug\09.CollectionHierarchy.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstracionExercises\09.CollectionHierarchy\obj\Debug\09.CollectionHierarchy.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstracionExercises\09.CollectionHierarchy\obj\Debug\09.CollectionHierarchy.pdb

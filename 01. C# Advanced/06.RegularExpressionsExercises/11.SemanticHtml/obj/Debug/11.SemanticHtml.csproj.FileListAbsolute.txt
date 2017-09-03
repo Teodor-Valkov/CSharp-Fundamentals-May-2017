@@ -1,5 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\11.SemanticHtml\bin\Debug\11.SemanticHtml.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\11.SemanticHtml\bin\Debug\11.SemanticHtml.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\11.SemanticHtml\bin\Debug\11.SemanticHtml.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\11.SemanticHtml\obj\Debug\11.SemanticHtml.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\11.SemanticHtml\obj\Debug\11.SemanticHtml.pdb

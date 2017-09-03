@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesLab\01.SumMatrixElements2\bin\Debug\01.SumMatrixElements2.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesLab\01.SumMatrixElements2\bin\Debug\01.SumMatrixElements2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesLab\01.SumMatrixElements2\bin\Debug\01.SumMatrixElements2.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesLab\01.SumMatrixElements2\obj\Debug\01.SumMatrixElements2.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesLab\01.SumMatrixElements2\obj\Debug\01.SumMatrixElements2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\03.MatricesLab\01.SumMatrixElements2\obj\Debug\01.SumMatrixElements2.pdb

@@ -1,5 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\14.DragonArmy\bin\Debug\14.DragonArmy.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\14.DragonArmy\bin\Debug\14.DragonArmy.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\14.DragonArmy\bin\Debug\14.DragonArmy.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\14.DragonArmy\obj\Debug\14.DragonArmy.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\14.DragonArmy\obj\Debug\14.DragonArmy.pdb

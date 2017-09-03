@@ -1,5 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\07.VladkoNotebook2\bin\Debug\07.VladkoNotebook2.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\07.VladkoNotebook2\bin\Debug\07.VladkoNotebook2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\07.VladkoNotebook2\bin\Debug\07.VladkoNotebook2.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\07.VladkoNotebook2\obj\Debug\07.VladkoNotebook2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\07.VladkoNotebook2\obj\Debug\07.VladkoNotebook2.pdb

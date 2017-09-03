@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\15.MelrahShake\bin\Debug\15.MelrahShake.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\15.MelrahShake\bin\Debug\15.MelrahShake.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\15.MelrahShake\bin\Debug\15.MelrahShake.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\15.MelrahShake\obj\Debug\15.MelrahShake.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\15.MelrahShake\obj\Debug\15.MelrahShake.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\15.MelrahShake\obj\Debug\15.MelrahShake.pdb

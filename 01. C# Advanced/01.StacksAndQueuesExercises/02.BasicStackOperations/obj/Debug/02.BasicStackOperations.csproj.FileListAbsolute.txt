@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.pdb

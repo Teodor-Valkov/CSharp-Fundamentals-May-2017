@@ -1,5 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\11.StudentsJoinedToSpecialties\bin\Debug\11.StudentsJoinedToSpecialties.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\11.StudentsJoinedToSpecialties\bin\Debug\11.StudentsJoinedToSpecialties.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\11.StudentsJoinedToSpecialties\bin\Debug\11.StudentsJoinedToSpecialties.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\11.StudentsJoinedToSpecialties\obj\Debug\11.StudentsJoinedToSpecialties.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\11.StudentsJoinedToSpecialties\obj\Debug\11.StudentsJoinedToSpecialties.pdb

@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\02.SetsOfElements\bin\Debug\02.SetsOfElements.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\02.SetsOfElements\bin\Debug\02.SetsOfElements.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\02.SetsOfElements\bin\Debug\02.SetsOfElements.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\02.SetsOfElements\obj\Debug\02.SetsOfElements.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\02.SetsOfElements\obj\Debug\02.SetsOfElements.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\02.SetsOfElements\obj\Debug\02.SetsOfElements.pdb

@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\06.TruckTour\bin\Debug\06.TruckTour.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\06.TruckTour\bin\Debug\06.TruckTour.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\06.TruckTour\bin\Debug\06.TruckTour.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\06.TruckTour\obj\Debug\06.TruckTour.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\06.TruckTour\obj\Debug\06.TruckTour.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\06.TruckTour\obj\Debug\06.TruckTour.pdb

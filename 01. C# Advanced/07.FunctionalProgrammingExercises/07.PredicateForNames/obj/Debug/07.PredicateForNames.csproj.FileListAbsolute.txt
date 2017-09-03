@@ -1,5 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\07.PredicateForNames\bin\Debug\07.PredicateForNames.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\07.PredicateForNames\bin\Debug\07.PredicateForNames.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\07.PredicateForNames\bin\Debug\07.PredicateForNames.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\07.PredicateForNames\obj\Debug\07.PredicateForNames.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\07.PredicateForNames\obj\Debug\07.PredicateForNames.pdb

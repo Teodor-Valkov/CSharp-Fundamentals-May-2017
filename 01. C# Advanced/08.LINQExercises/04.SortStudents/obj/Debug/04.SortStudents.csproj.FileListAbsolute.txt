@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\04.SortStudents\bin\Debug\04.SortStudents.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\04.SortStudents\bin\Debug\04.SortStudents.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\04.SortStudents\bin\Debug\04.SortStudents.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\04.SortStudents\obj\Debug\04.SortStudents.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\04.SortStudents\obj\Debug\04.SortStudents.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\04.SortStudents\obj\Debug\04.SortStudents.pdb

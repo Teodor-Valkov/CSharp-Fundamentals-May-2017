@@ -1,5 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\12.LittleJohn\bin\Debug\12.LittleJohn.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\12.LittleJohn\bin\Debug\12.LittleJohn.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\12.LittleJohn\bin\Debug\12.LittleJohn.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\12.LittleJohn\obj\Debug\12.LittleJohn.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\12.LittleJohn\obj\Debug\12.LittleJohn.pdb

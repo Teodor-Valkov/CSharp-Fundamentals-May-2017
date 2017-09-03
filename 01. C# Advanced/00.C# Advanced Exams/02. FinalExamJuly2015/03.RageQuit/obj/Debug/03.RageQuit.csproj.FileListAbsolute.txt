@@ -1,7 +1,0 @@
-c:\users\ac milan\documents\visual studio 2012\Projects\FinalExamJuly2015\03.RageQuit\bin\Debug\03.RageQuit.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\02. FinalExamJuly2015\03.RageQuit\bin\Debug\03.RageQuit.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\02. FinalExamJuly2015\03.RageQuit\bin\Debug\03.RageQuit.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\02. FinalExamJuly2015\03.RageQuit\bin\Debug\03.RageQuit.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\02. FinalExamJuly2015\03.RageQuit\obj\Debug\03.RageQuit.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\02. FinalExamJuly2015\03.RageQuit\obj\Debug\03.RageQuit.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\02. FinalExamJuly2015\03.RageQuit\obj\Debug\03.RageQuit.pdb

@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\03.StudentsByAge\bin\Debug\03.StudentsByAge.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\03.StudentsByAge\bin\Debug\03.StudentsByAge.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\03.StudentsByAge\bin\Debug\03.StudentsByAge.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\03.StudentsByAge\obj\Debug\03.StudentsByAge.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\03.StudentsByAge\obj\Debug\03.StudentsByAge.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\03.StudentsByAge\obj\Debug\03.StudentsByAge.pdb

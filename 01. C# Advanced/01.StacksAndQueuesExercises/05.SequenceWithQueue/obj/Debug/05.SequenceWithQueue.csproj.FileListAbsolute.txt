@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\05.SequenceWithQueue\bin\Debug\05.SequenceWithQueue.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\05.SequenceWithQueue\bin\Debug\05.SequenceWithQueue.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\05.SequenceWithQueue\bin\Debug\05.SequenceWithQueue.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\05.SequenceWithQueue\obj\Debug\05.SequenceWithQueue.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\05.SequenceWithQueue\obj\Debug\05.SequenceWithQueue.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\05.SequenceWithQueue\obj\Debug\05.SequenceWithQueue.pdb

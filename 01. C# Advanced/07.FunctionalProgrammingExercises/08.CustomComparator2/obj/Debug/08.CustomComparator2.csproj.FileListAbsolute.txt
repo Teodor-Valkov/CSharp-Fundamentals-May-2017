@@ -1,5 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\08.CustomComparator2\bin\Debug\08.CustomComparator2.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\08.CustomComparator2\bin\Debug\08.CustomComparator2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\08.CustomComparator2\bin\Debug\08.CustomComparator2.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\08.CustomComparator2\obj\Debug\08.CustomComparator2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingExercises\08.CustomComparator2\obj\Debug\08.CustomComparator2.pdb

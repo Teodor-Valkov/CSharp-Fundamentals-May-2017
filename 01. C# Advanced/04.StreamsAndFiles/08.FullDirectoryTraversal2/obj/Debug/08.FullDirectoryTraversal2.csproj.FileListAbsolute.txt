@@ -1,5 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\08.FullDirectoryTraversal2\bin\Debug\08.FullDirectoryTraversal2.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\08.FullDirectoryTraversal2\bin\Debug\08.FullDirectoryTraversal2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\08.FullDirectoryTraversal2\bin\Debug\08.FullDirectoryTraversal2.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\08.FullDirectoryTraversal2\obj\Debug\08.FullDirectoryTraversal2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\08.FullDirectoryTraversal2\obj\Debug\08.FullDirectoryTraversal2.pdb

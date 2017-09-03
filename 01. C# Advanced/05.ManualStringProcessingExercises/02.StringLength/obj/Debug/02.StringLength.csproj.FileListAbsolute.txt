@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\02.StringLength\bin\Debug\02.StringLength.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\02.StringLength\bin\Debug\02.StringLength.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\02.StringLength\bin\Debug\02.StringLength.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\02.StringLength\obj\Debug\02.StringLength.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\02.StringLength\obj\Debug\02.StringLength.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\02.StringLength\obj\Debug\02.StringLength.pdb

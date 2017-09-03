@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\05.SemanticHtml\bin\Debug\05.SemanticHtml.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\05.SemanticHtml\bin\Debug\05.SemanticHtml.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\05.SemanticHtml\bin\Debug\05.SemanticHtml.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\05.SemanticHtml\obj\Debug\05.SemanticHtml.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\05.SemanticHtml\obj\Debug\05.SemanticHtml.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\05.SemanticHtml\obj\Debug\05.SemanticHtml.pdb
