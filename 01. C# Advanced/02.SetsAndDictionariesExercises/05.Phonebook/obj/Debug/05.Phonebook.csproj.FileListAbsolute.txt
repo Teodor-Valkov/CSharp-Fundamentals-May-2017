@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\05.Phonebook\bin\Debug\05.Phonebook.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\05.Phonebook\bin\Debug\05.Phonebook.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\05.Phonebook\bin\Debug\05.Phonebook.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\05.Phonebook\obj\Debug\05.Phonebook.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\05.Phonebook\obj\Debug\05.Phonebook.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\05.Phonebook\obj\Debug\05.Phonebook.pdb

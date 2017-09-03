@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\05.SlicingFile\bin\Debug\05.SlicingFile.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\05.SlicingFile\bin\Debug\05.SlicingFile.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\05.SlicingFile\bin\Debug\05.SlicingFile.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\05.SlicingFile\obj\Debug\05.SlicingFile.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\05.SlicingFile\obj\Debug\05.SlicingFile.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\04.StreamsAndFiles\05.SlicingFile\obj\Debug\05.SlicingFile.pdb

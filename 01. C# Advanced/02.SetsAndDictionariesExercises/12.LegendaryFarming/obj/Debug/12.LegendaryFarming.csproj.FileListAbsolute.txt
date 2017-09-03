@@ -1,5 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\12.LegendaryFarming\bin\Debug\12.LegendaryFarming.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\12.LegendaryFarming\bin\Debug\12.LegendaryFarming.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\12.LegendaryFarming\bin\Debug\12.LegendaryFarming.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\12.LegendaryFarming\obj\Debug\12.LegendaryFarming.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\12.LegendaryFarming\obj\Debug\12.LegendaryFarming.pdb

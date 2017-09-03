@@ -1,5 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\07.BalancedParenthesis\bin\Debug\07.BalancedParenthesis.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\07.BalancedParenthesis\bin\Debug\07.BalancedParenthesis.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\07.BalancedParenthesis\bin\Debug\07.BalancedParenthesis.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\07.BalancedParenthesis\obj\Debug\07.BalancedParenthesis.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\07.BalancedParenthesis\obj\Debug\07.BalancedParenthesis.pdb

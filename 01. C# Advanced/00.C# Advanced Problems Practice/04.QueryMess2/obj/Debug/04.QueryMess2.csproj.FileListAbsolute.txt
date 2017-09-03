@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\04.QueryMess2\bin\Debug\04.QueryMess2.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\04.QueryMess2\bin\Debug\04.QueryMess2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\04.QueryMess2\bin\Debug\04.QueryMess2.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\04.QueryMess2\obj\Debug\04.QueryMess2.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\04.QueryMess2\obj\Debug\04.QueryMess2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Problems Practice\04.QueryMess2\obj\Debug\04.QueryMess2.pdb

@@ -1,5 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\10.GroupByGroup\bin\Debug\10.GroupByGroup.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\10.GroupByGroup\bin\Debug\10.GroupByGroup.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\10.GroupByGroup\bin\Debug\10.GroupByGroup.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\10.GroupByGroup\obj\Debug\10.GroupByGroup.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\10.GroupByGroup\obj\Debug\10.GroupByGroup.pdb

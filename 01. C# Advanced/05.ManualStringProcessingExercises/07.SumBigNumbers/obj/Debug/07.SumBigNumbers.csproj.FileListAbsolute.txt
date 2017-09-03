@@ -1,5 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\07.SumBigNumbers\bin\Debug\07.SumBigNumbers.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\07.SumBigNumbers\bin\Debug\07.SumBigNumbers.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\07.SumBigNumbers\bin\Debug\07.SumBigNumbers.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\07.SumBigNumbers\obj\Debug\07.SumBigNumbers.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\07.SumBigNumbers\obj\Debug\07.SumBigNumbers.pdb

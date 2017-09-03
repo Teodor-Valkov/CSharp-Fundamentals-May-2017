@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.pdb

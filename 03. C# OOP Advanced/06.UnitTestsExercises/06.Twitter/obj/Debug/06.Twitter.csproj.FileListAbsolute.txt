@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\06.Twitter\bin\Debug\06.Twitter.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\06.Twitter\bin\Debug\06.Twitter.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\06.Twitter\bin\Debug\06.Twitter.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\06.Twitter\obj\Debug\06.Twitter.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\06.Twitter\obj\Debug\06.Twitter.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\06.UnitTestsExercises\06.Twitter\obj\Debug\06.Twitter.pdb

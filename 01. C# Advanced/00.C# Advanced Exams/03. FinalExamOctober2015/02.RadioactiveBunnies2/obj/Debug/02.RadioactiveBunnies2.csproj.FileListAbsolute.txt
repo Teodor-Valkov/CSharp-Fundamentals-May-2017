@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\03. FinalExamOctober2015\02.RadioactiveBunnies2\bin\Debug\02.RadioactiveBunnies2.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\03. FinalExamOctober2015\02.RadioactiveBunnies2\bin\Debug\02.RadioactiveBunnies2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\03. FinalExamOctober2015\02.RadioactiveBunnies2\bin\Debug\02.RadioactiveBunnies2.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\03. FinalExamOctober2015\02.RadioactiveBunnies2\obj\Debug\02.RadioactiveBunnies2.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\03. FinalExamOctober2015\02.RadioactiveBunnies2\obj\Debug\02.RadioactiveBunnies2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\03. FinalExamOctober2015\02.RadioactiveBunnies2\obj\Debug\02.RadioactiveBunnies2.pdb

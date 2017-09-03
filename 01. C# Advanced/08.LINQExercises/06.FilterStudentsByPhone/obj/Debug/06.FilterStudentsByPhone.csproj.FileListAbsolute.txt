@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\06.FilterStudentsByPhone\bin\Debug\06.FilterStudentsByPhone.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\06.FilterStudentsByPhone\bin\Debug\06.FilterStudentsByPhone.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\06.FilterStudentsByPhone\bin\Debug\06.FilterStudentsByPhone.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\06.FilterStudentsByPhone\obj\Debug\06.FilterStudentsByPhone.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\06.FilterStudentsByPhone\obj\Debug\06.FilterStudentsByPhone.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQExercises\06.FilterStudentsByPhone\obj\Debug\06.FilterStudentsByPhone.pdb

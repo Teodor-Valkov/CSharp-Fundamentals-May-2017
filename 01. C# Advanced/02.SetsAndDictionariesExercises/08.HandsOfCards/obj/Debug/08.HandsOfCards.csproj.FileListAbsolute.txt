@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\08.HandsOfCards\bin\Debug\08.HandsOfCards.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\08.HandsOfCards\bin\Debug\08.HandsOfCards.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\08.HandsOfCards\bin\Debug\08.HandsOfCards.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\08.HandsOfCards\obj\Debug\08.HandsOfCards.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\08.HandsOfCards\obj\Debug\08.HandsOfCards.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\02.SetsAndDictionariesExercises\08.HandsOfCards\obj\Debug\08.HandsOfCards.pdb

@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\bin\Debug\02.SumNumbers.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\bin\Debug\02.SumNumbers.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\bin\Debug\02.SumNumbers.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\obj\Debug\02.SumNumbers.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\obj\Debug\02.SumNumbers.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\obj\Debug\02.SumNumbers.pdb

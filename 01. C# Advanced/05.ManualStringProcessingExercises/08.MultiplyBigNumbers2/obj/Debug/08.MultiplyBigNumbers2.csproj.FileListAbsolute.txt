@@ -1,5 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\08.MultiplyBigNumbers2\bin\Debug\08.MultiplyBigNumbers2.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\08.MultiplyBigNumbers2\bin\Debug\08.MultiplyBigNumbers2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\08.MultiplyBigNumbers2\bin\Debug\08.MultiplyBigNumbers2.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\08.MultiplyBigNumbers2\obj\Debug\08.MultiplyBigNumbers2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\05.ManualStringProcessingExercises\08.MultiplyBigNumbers2\obj\Debug\08.MultiplyBigNumbers2.pdb

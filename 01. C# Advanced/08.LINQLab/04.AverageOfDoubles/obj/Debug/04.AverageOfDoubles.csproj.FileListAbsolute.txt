@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\04.AverageOfDoubles\bin\Debug\04.AverageOfDoubles.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\04.AverageOfDoubles\bin\Debug\04.AverageOfDoubles.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\04.AverageOfDoubles\bin\Debug\04.AverageOfDoubles.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\04.AverageOfDoubles\obj\Debug\04.AverageOfDoubles.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\04.AverageOfDoubles\obj\Debug\04.AverageOfDoubles.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\04.AverageOfDoubles\obj\Debug\04.AverageOfDoubles.pdb

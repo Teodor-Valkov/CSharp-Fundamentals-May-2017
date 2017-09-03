@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\09.FinalExamJune2017\04.Hospital3\bin\Debug\04.Hospital3.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\09.FinalExamJune2017\04.Hospital3\bin\Debug\04.Hospital3.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\09.FinalExamJune2017\04.Hospital3\bin\Debug\04.Hospital3.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\09.FinalExamJune2017\04.Hospital3\obj\Debug\04.Hospital3.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\09.FinalExamJune2017\04.Hospital3\obj\Debug\04.Hospital3.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\09.FinalExamJune2017\04.Hospital3\obj\Debug\04.Hospital3.pdb

@@ -1,7 +1,0 @@
-c:\users\ac milan\documents\visual studio 2012\Projects\FinalExamOctober2015\04.SrubskoUnleashed\bin\Debug\04.SrubskoUnleashed.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\03. FinalExamOctober2015\04.SrubskoUnleashed\bin\Debug\04.SrubskoUnleashed.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\03. FinalExamOctober2015\04.SrubskoUnleashed\bin\Debug\04.SrubskoUnleashed.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\03. FinalExamOctober2015\04.SrubskoUnleashed\bin\Debug\04.SrubskoUnleashed.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\03. FinalExamOctober2015\04.SrubskoUnleashed\obj\Debug\04.SrubskoUnleashed.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\03. FinalExamOctober2015\04.SrubskoUnleashed\obj\Debug\04.SrubskoUnleashed.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\03. FinalExamOctober2015\04.SrubskoUnleashed\obj\Debug\04.SrubskoUnleashed.pdb

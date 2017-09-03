@@ -1,5 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\01.StacksAndQueuesExercises\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.pdb

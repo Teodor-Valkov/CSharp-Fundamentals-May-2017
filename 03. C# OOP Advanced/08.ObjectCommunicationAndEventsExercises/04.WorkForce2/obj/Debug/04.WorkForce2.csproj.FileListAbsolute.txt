@@ -1,5 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\04.WorkForce2\bin\Debug\04.WorkForce2.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\04.WorkForce2\bin\Debug\04.WorkForce2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\04.WorkForce2\bin\Debug\04.WorkForce2.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\04.WorkForce2\obj\Debug\04.WorkForce2.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\08.ObjectCommunicationAndEventsExercises\04.WorkForce2\obj\Debug\04.WorkForce2.pdb

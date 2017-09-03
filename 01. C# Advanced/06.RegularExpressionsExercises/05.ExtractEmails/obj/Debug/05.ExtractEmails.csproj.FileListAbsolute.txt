@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\05.ExtractEmails\bin\Debug\05.ExtractEmails.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\05.ExtractEmails\bin\Debug\05.ExtractEmails.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\05.ExtractEmails\bin\Debug\05.ExtractEmails.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\05.ExtractEmails\obj\Debug\05.ExtractEmails.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\05.ExtractEmails\obj\Debug\05.ExtractEmails.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\06.RegularExpressionsExercises\05.ExtractEmails\obj\Debug\05.ExtractEmails.pdb

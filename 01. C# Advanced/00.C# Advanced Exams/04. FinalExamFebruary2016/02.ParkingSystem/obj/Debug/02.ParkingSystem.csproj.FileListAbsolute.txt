@@ -1,7 +1,0 @@
-c:\users\ac milan\documents\visual studio 2012\Projects\FinalExamFebruary2016\02.ParkingSystem\bin\Debug\02.ParkingSystem.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\04. FinalExamFebruary2016\02.ParkingSystem\bin\Debug\02.ParkingSystem.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\04. FinalExamFebruary2016\02.ParkingSystem\bin\Debug\02.ParkingSystem.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\04. FinalExamFebruary2016\02.ParkingSystem\bin\Debug\02.ParkingSystem.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\04. FinalExamFebruary2016\02.ParkingSystem\obj\Debug\02.ParkingSystem.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\04. FinalExamFebruary2016\02.ParkingSystem\obj\Debug\02.ParkingSystem.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\00.C# Advanced Exams\04. FinalExamFebruary2016\02.ParkingSystem\obj\Debug\02.ParkingSystem.pdb

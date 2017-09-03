@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\06.FindAndSumIntegers\bin\Debug\06.FindAndSumIntegers.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\06.FindAndSumIntegers\bin\Debug\06.FindAndSumIntegers.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\06.FindAndSumIntegers\bin\Debug\06.FindAndSumIntegers.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\06.FindAndSumIntegers\obj\Debug\06.FindAndSumIntegers.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\06.FindAndSumIntegers\obj\Debug\06.FindAndSumIntegers.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\01. C# Advanced\08.LINQLab\06.FindAndSumIntegers\obj\Debug\06.FindAndSumIntegers.pdb

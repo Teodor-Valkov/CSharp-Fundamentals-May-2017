@@ -1,6 +1,0 @@
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstracionExercises\10.ExplicitInterfaces\bin\Debug\10.ExplicitInterfaces.exe.config
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstracionExercises\10.ExplicitInterfaces\bin\Debug\10.ExplicitInterfaces.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstracionExercises\10.ExplicitInterfaces\bin\Debug\10.ExplicitInterfaces.pdb
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstracionExercises\10.ExplicitInterfaces\obj\Debug\10.ExplicitInterfaces.csprojResolveAssemblyReference.cache
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstracionExercises\10.ExplicitInterfaces\obj\Debug\10.ExplicitInterfaces.exe
-C:\Users\valko\Documents\Visual Studio 2017\Projects\03. C# OOP Advanced\01.InterfacesAndAbstracionExercises\10.ExplicitInterfaces\obj\Debug\10.ExplicitInterfaces.pdb
