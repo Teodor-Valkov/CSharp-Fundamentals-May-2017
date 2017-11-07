@@ -1,6 +1,6 @@
 # CSharp-Fundamentals-May-2017
 
-## Repository about C# OOP module in Software Unitiversity
+## Repository about C# OOP module in Software University
 
 - C# Advanced - all the exercises and exams regarding advanced C#: Stacks and Queues, Sets and Dictionaries, Matrices, String processing and Regular Expressions, working with LINQ and working with files and streams.
 
